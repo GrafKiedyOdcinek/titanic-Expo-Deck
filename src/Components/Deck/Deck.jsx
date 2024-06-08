@@ -17,6 +17,7 @@ const Deck = ({ selectedDeck, data }) => {
     setSecondClass(deckDetails ? deckDetails.secondClass : "");
     setThirdClass(deckDetails ? deckDetails.thirdClass : "");
     setRoom(deckDetails ? deckDetails.room : "");
+    resetZoom();
   }, [selectedDeck, data]);
 
   const divideDetailsIntoColumns = (details, columns) => {
@@ -40,14 +41,21 @@ const Deck = ({ selectedDeck, data }) => {
     }
   };
 
+  const resetZoom = () => {
+    if (transformComponentRef.current) {
+      transformComponentRef.current.resetTransform();
+    }
+  };
+
   return (
-    <div>
-      <div className="deck-view mt-10 p-10">
+    <div className="main-deck-container relative p-4">
+      <div className="deck-view">
         <TransformWrapper ref={transformComponentRef}>
           <TransformComponent>
             <img
               src={`/deck/${selectedDeck}.gif`}
               alt={`${selectedDeck} plan`}
+              className="w-full min-h-[500px] max-h-[500px] object-contain"
             />
           </TransformComponent>
         </TransformWrapper>
@@ -60,20 +68,23 @@ const Deck = ({ selectedDeck, data }) => {
           <i className="fa-solid fa-magnifying-glass-minus text-2xl cursor-pointer"></i>
         </div>
       </div>
-      <div className="deck-details mt-10 flex justify-between p-10 gap-10">
-        <div className="detail-item w-[40%] flex flex-col gap-4">
-          <h3>{selectedDeck}</h3>
+      <div className="deck-details mt-10 flex flex-col md:flex-row justify-between p-4 gap-10">
+        <div className="detail-item md:w-[40%] sm:w-full">
+          <h3 className="text-lg font-semibold mb-2">{selectedDeck}</h3>
           <div className="class-room flex flex-col gap-4">
-            <p className="text-xs w-[70%]">{firstClass}</p>
-            <p className="text-xs w-[70%]">{room}</p>
-            <p className="text-xs w-[70%]">{secondClass}</p>
-            <p className="text-xs w-[70%]">{thirdClass}</p>
+            <p className="text-xs">{firstClass}</p>
+            <p className="text-xs">{room}</p>
+            <p className="text-xs">{secondClass}</p>
+            <p className="text-xs">{thirdClass}</p>
           </div>
         </div>
-        <div className="details-deck-space w-[60%] h-full border border-white p-4">
-          <div className="detail-room flex justify-between w-full">
+        <div className="details-deck-space md:w-[60%] h-full border border-white p-4 sm:w-full">
+          <div className="detail-room flex flex-wrap justify-between w-full">
             {detailColumns.map((column, columnIndex) => (
-              <div className="detail-column w-[30%]" key={columnIndex}>
+              <div
+                className="detail-column w-full md:w-[28%] mb-4"
+                key={columnIndex}
+              >
                 {column.map((detail, index) => (
                   <p className="text-xs" key={index}>
                     {detail.title} - <span>{detail.description}</span>
@@ -81,7 +92,7 @@ const Deck = ({ selectedDeck, data }) => {
                 ))}
               </div>
             ))}
-            <div className="comodities text-xs">
+            <div className="comodities text-xs w-full md:w-auto">
               <p className="p-1">DUTCH DOOR</p>
               <p className="p-1">LAVATORY SINK</p>
               <p className="p-1">SINK</p>
