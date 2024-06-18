@@ -50,7 +50,7 @@ const Deck = ({ selectedDeck, data }) => {
   return (
     <div className="main-deck-container relative p-4">
       <div className="deck-view">
-        <TransformWrapper ref={transformComponentRef}>
+        <TransformWrapper ref={transformComponentRef} style={"width: 100%"}>
           <TransformComponent>
             <img
               src={`/deck/${selectedDeck}.png`}
