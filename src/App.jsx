@@ -10,6 +10,7 @@ import {
 import deckDataEN from "./Data/galerieEN.json";
 import deckDataFR from "./Data/galerieFR.json";
 import Deck from "./Components/Deck/Deck";
+import Ornement from "./Components/Ornement/Ornement";
 
 function App() {
   const [data, setData] = useState([]);
@@ -118,6 +119,7 @@ function App() {
           data={data}
         />
       </main>
+      <Ornement />
     </div>
   );
 }
