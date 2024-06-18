@@ -6,6 +6,7 @@ import {
   PopoverContent,
   Typography,
 } from "@material-tailwind/react";
+import { CSSTransition, TransitionGroup } from "react-transition-group";
 
 import deckDataEN from "./Data/galerieEN.json";
 import deckDataFR from "./Data/galerieFR.json";
@@ -113,11 +114,15 @@ function App() {
       </header>
       <div className="separator border mt-6"></div>
       <main className="p-10">
-        <Deck
-          selectedDeck={selectedDeck}
-          setSelectedDeck={setSelectedDeck}
-          data={data}
-        />
+        <TransitionGroup>
+          <CSSTransition key={selectedDeck} timeout={500} classNames="bounce">
+            <Deck
+              selectedDeck={selectedDeck}
+              setSelectedDeck={setSelectedDeck}
+              data={data}
+            />
+          </CSSTransition>
+        </TransitionGroup>
       </main>
       <Ornement />
     </div>
