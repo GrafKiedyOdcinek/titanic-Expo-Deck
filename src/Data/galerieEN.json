@@ -433,5 +433,585 @@
                 "description": "WRITING TABLE."
             }
         ]
+    },
+    {
+        "name": "D-DECK",
+        "firstClass": "1ST CLASS: ALL UPPER BERTHS (NO.2) IN ROOMS ON THIS DECK WERE PULLMAN BERTHS AND FOLDED UP",
+        "rooms": "ROOMS D 40, 42, 43, 44, 45, 46, 47, 48, 49 AND 50 WERE SO FITTED THAT A PULLMAN UPPER BERTH FOR A SECOND PASSENGER COULD BE PROVIDED WHEN REQUIRED.",
+        "secondClass": "2ND CLASS: BERTHS NUMBERED 1 AND 3 WERE LOWER BERTHS (BUNKS) AND BERTHS NUMBERED 2 AND 4 WERE UPPER BERTHS. BERTHS LABELED 3 AND 4 DESIGNATED AS UPHOLSTERED WERE SOFA BERTHS IN WHICH THE BACK PANEL COULD BE LIFTED TO FORM A BERTH IN CONJUNCTION WITH THE SEAT. UNNUMBERED SOFAS WERE SUITABLE FOR A CHILD IF NECESSARY.",
+        "thirdClass": "3RD CLASS: BUNKS WERE TWO TIERED (2B). SINGLE WOMEN AND FAMILIES AFT.",
+        "details": [
+            {
+                "title": "AE",
+                "description": "ASH EJECTOR."
+            },
+            {
+                "title": "B",
+                "description": "BUNK."
+            },
+            {
+                "title": "BR",
+                "description": "BAG RACK."
+            },
+            {
+                "title": "CS",
+                "description": "COAL SHUTE."
+            },
+            {
+                "title": "D",
+                "description": "CHEST OF DRAWERS."
+            },
+            {
+                "title": "DC",
+                "description": "DIRECT CONTACT."
+            },
+            {
+                "title": "DT",
+                "description": "DRESSING TABLE."
+            },
+            {
+                "title": "DRES",
+                "description": "DRESSER."
+            },
+            {
+                "title": "DRS (BUNKS)",
+                "description": "DRAWERS."
+            },
+            {
+                "title": "DP ON TANK TOP",
+                "description": "DRAIN POT."
+            },
+            {
+                "title": "FE",
+                "description": "FIREMAN'S ESCAPE."
+            },
+            {
+                "title": "FL",
+                "description": "FOLDING LAVATORY."
+            },
+            {
+                "title": "FW",
+                "description": "FRESH WATER."
+            },
+            {
+                "title": "GI",
+                "description": "GALVANIZED IRON."
+            },
+            {
+                "title": "H",
+                "description": "HEATER."
+            },
+            {
+                "title": "H",
+                "description": "HOIST."
+            },
+            {
+                "title": "HP",
+                "description": "HOT PRESS."
+            },
+            {
+                "title": "LOR LK",
+                "description": "LOCKER."
+            },
+            {
+                "title": "L&A",
+                "description": "LIGHT & AIR."
+            },
+            {
+                "title": "MP",
+                "description": "MOORING PIPE."
+            },
+            {
+                "title": "PT",
+                "description": "PIPE TUNNEL."
+            },
+            {
+                "title": "P ON TANK TOP",
+                "description": "PLATE OVER MAN HOLE."
+            },
+            {
+                "title": "S IN FOREPEAKS",
+                "description": "SCUTTLE."
+            },
+            {
+                "title": "S ON BOAT DECK",
+                "description": "SKID LIGHT."
+            },
+            {
+                "title": "SB",
+                "description": "SIDE BOARD."
+            },
+            {
+                "title": "TOR TE",
+                "description": "TUNNEL ESCAPE."
+            },
+            {
+                "title": "TV",
+                "description": "TUNNEL VENT."
+            },
+            {
+                "title": "V",
+                "description": "VENT."
+            },
+            {
+                "title": "V",
+                "description": "UTLEY'S VENTILATING PORTHOLE."
+            },
+            {
+                "title": "W",
+                "description": "WARDROBE."
+            },
+            {
+                "title": "WP",
+                "description": "WASH PORT."
+            },
+            {
+                "title": "WT",
+                "description": "WATERTIGHT."
+            },
+            {
+                "title": "WTB",
+                "description": "WATERTIGHT BULKHEAD."
+            },
+            {
+                "title": "WT",
+                "description": "WRITING TABLE."
+            }
+        ]
+    },
+    {
+        "name": "E-DECK",
+        "firstClass": "1ST CLASS: ROOMS E 11, 12, 14, 15, 26, 27, 38, 39, 40, 41 AND 42 WERE SO FITTED THAT A PULLMAN UPPER BERTH FOR A SECOND PASSENGER COULD BE PROVIDED WHEN REQUIRED.",
+        "rooms": "",
+        "secondClass": "2ND CLASS: BERTHS NUMBERED 1 AND 3 WERE LOWER BERTHS (BUNKS) AND BERTHS NUMBERED 2 AND 4 WERE UPPER BERTHS. BERTHS LABELED 3 AND 4 DESIGNATED AS UPHOLSTERED WERE SOFA BERTHS IN WHICH THE BACK PANEL COULD BE LIFTED TO FORM A BERTH IN CONJUNCTION WITH THE SEAT. UNNUMBERED SOFAS WERE SUITABLE FOR A CHILD IF NECESSARY.",
+        "thirdClass": "3RD CLASS: BUNKS WERE TWO TIERED (2B). SINGLE MEN BERTHED FORWARD. SINGLE WOMEN AND FAMILIES AFT.",
+        "details": [
+            {
+                "title": "AE",
+                "description": "ASH EJECTOR."
+            },
+            {
+                "title": "B",
+                "description": "BUNK."
+            },
+            {
+                "title": "BR",
+                "description": "BAG RACK."
+            },
+            {
+                "title": "CS",
+                "description": "COAL SHUTE."
+            },
+            {
+                "title": "D",
+                "description": "CHEST OF DRAWERS."
+            },
+            {
+                "title": "DC",
+                "description": "DIRECT CONTACT."
+            },
+            {
+                "title": "DT",
+                "description": "DRESSING TABLE."
+            },
+            {
+                "title": "DRES",
+                "description": "DRESSER."
+            },
+            {
+                "title": "DRS (BUNKS)",
+                "description": "DRAWERS."
+            },
+            {
+                "title": "DP ON TANK TOP",
+                "description": "DRAIN POT."
+            },
+            {
+                "title": "FE",
+                "description": "FIREMAN'S ESCAPE."
+            },
+            {
+                "title": "FL",
+                "description": "FOLDING LAVATORY."
+            },
+            {
+                "title": "FW",
+                "description": "FRESH WATER."
+            },
+            {
+                "title": "GI",
+                "description": "GALVANIZED IRON."
+            },
+            {
+                "title": "H",
+                "description": "HEATER."
+            },
+            {
+                "title": "H",
+                "description": "HOIST."
+            },
+            {
+                "title": "HP",
+                "description": "HOT PRESS."
+            },
+            {
+                "title": "LOR LK",
+                "description": "LOCKER."
+            },
+            {
+                "title": "L&A",
+                "description": "LIGHT & AIR."
+            },
+            {
+                "title": "MP",
+                "description": "MOORING PIPE."
+            },
+            {
+                "title": "PT",
+                "description": "PIPE TUNNEL."
+            },
+            {
+                "title": "P ON TANK TOP",
+                "description": "PLATE OVER MAN HOLE."
+            },
+            {
+                "title": "S IN FOREPEAKS",
+                "description": "SCUTTLE."
+            },
+            {
+                "title": "S ON BOAT DECK",
+                "description": "SKID LIGHT."
+            },
+            {
+                "title": "SB",
+                "description": "SIDE BOARD."
+            },
+            {
+                "title": "TOR TE",
+                "description": "TUNNEL ESCAPE."
+            },
+            {
+                "title": "TV",
+                "description": "TUNNEL VENT."
+            },
+            {
+                "title": "V",
+                "description": "VENT."
+            },
+            {
+                "title": "V",
+                "description": "UTLEY'S VENTILATING PORTHOLE."
+            },
+            {
+                "title": "W",
+                "description": "WARDROBE."
+            },
+            {
+                "title": "WP",
+                "description": "WASH PORT."
+            },
+            {
+                "title": "WT",
+                "description": "WATERTIGHT."
+            },
+            {
+                "title": "WTB",
+                "description": "WATERTIGHT BULKHEAD."
+            },
+            {
+                "title": "WT",
+                "description": "WRITING TABLE."
+            }
+        ]
+    },
+    {
+        "name": "F-DECK",
+        "firstClass": "",
+        "rooms": "2ND CLASS: BERTHS NUMBERED 1 AND 3 WERE LOWER BERTHS (BUNKS) AND BERTHS NUMBERED 2 AND 4 WERE UPPER BERTHS. BERTHS LABELED 3 AND 4 DESIGNATED AS UPHOLSTERED WERE SOFA BERTHS IN WHICH THE BACK PANEL COULD BE LIFTED TO FORM A BERTH IN CONJUNCTION WITH THE SEAT. UNNUMBERED SOFAS WERE SUITABLE FOR A CHILD IF NECESSARY.",
+        "secondClass": "2ND CLASS: BERTHS NUMBERED 1 AND 3 WERE LOWER BERTHS (BUNKS) AND BERTHS NUMBERED 2 AND 4 WERE UPPER BERTHS. BERTHS LABELED 3 AND 4 DESIGNATED AS UPHOLSTERED WERE SOFA BERTHS IN WHICH THE BACK PANEL COULD BE LIFTED TO FORM A BERTH IN CONJUNCTION WITH THE SEAT. UNNUMBERED SOFAS WERE SUITABLE FOR A CHILD IF NECESSARY.",
+        "thirdClass": "3RD CLASS: BUNKS WERE TWO TIERED (2B). SINGLE MEN BERTHED FORWARD. SINGLE WOMEN AND FAMILIES AFT.",
+        "details": [
+            {
+                "title": "AE",
+                "description": "ASH EJECTOR."
+            },
+            {
+                "title": "B",
+                "description": "BUNK."
+            },
+            {
+                "title": "BR",
+                "description": "BAG RACK."
+            },
+            {
+                "title": "CS",
+                "description": "COAL SHUTE."
+            },
+            {
+                "title": "D",
+                "description": "CHEST OF DRAWERS."
+            },
+            {
+                "title": "DC",
+                "description": "DIRECT CONTACT."
+            },
+            {
+                "title": "DT",
+                "description": "DRESSING TABLE."
+            },
+            {
+                "title": "DRES",
+                "description": "DRESSER."
+            },
+            {
+                "title": "DRS (BUNKS)",
+                "description": "DRAWERS."
+            },
+            {
+                "title": "DP ON TANK TOP",
+                "description": "DRAIN POT."
+            },
+            {
+                "title": "FE",
+                "description": "FIREMAN'S ESCAPE."
+            },
+            {
+                "title": "FL",
+                "description": "FOLDING LAVATORY."
+            },
+            {
+                "title": "FW",
+                "description": "FRESH WATER."
+            },
+            {
+                "title": "GI",
+                "description": "GALVANIZED IRON."
+            },
+            {
+                "title": "H",
+                "description": "HEATER."
+            },
+            {
+                "title": "H",
+                "description": "HOIST."
+            },
+            {
+                "title": "HP",
+                "description": "HOT PRESS."
+            },
+            {
+                "title": "LOR LK",
+                "description": "LOCKER."
+            },
+            {
+                "title": "L&A",
+                "description": "LIGHT & AIR."
+            },
+            {
+                "title": "MP",
+                "description": "MOORING PIPE."
+            },
+            {
+                "title": "PT",
+                "description": "PIPE TUNNEL."
+            },
+            {
+                "title": "P ON TANK TOP",
+                "description": "PLATE OVER MAN HOLE."
+            },
+            {
+                "title": "S IN FOREPEAKS",
+                "description": "SCUTTLE."
+            },
+            {
+                "title": "S ON BOAT DECK",
+                "description": "SKID LIGHT."
+            },
+            {
+                "title": "SB",
+                "description": "SIDE BOARD."
+            },
+            {
+                "title": "TOR TE",
+                "description": "TUNNEL ESCAPE."
+            },
+            {
+                "title": "TV",
+                "description": "TUNNEL VENT."
+            },
+            {
+                "title": "V",
+                "description": "VENT."
+            },
+            {
+                "title": "V",
+                "description": "UTLEY'S VENTILATING PORTHOLE."
+            },
+            {
+                "title": "W",
+                "description": "WARDROBE."
+            },
+            {
+                "title": "WP",
+                "description": "WASH PORT."
+            },
+            {
+                "title": "WT",
+                "description": "WATERTIGHT."
+            },
+            {
+                "title": "WTB",
+                "description": "WATERTIGHT BULKHEAD."
+            },
+            {
+                "title": "WT",
+                "description": "WRITING TABLE."
+            }
+        ]
+    },
+    {
+        "name": "G-DECK",
+        "firstClass": "",
+        "rooms": "",
+        "secondClass": "",
+        "thirdClass": "3RD CLASS: BUNKS WERE TWO TIERED (2B). SINGLE MEN BERTHED FORWARD. SINGLE WOMEN AND FAMILIES AFT.",
+        "details": [
+            {
+                "title": "AE",
+                "description": "ASH EJECTOR."
+            },
+            {
+                "title": "B",
+                "description": "BUNK."
+            },
+            {
+                "title": "BR",
+                "description": "BAG RACK."
+            },
+            {
+                "title": "CS",
+                "description": "COAL SHUTE."
+            },
+            {
+                "title": "D",
+                "description": "CHEST OF DRAWERS."
+            },
+            {
+                "title": "DC",
+                "description": "DIRECT CONTACT."
+            },
+            {
+                "title": "DT",
+                "description": "DRESSING TABLE."
+            },
+            {
+                "title": "DRES",
+                "description": "DRESSER."
+            },
+            {
+                "title": "DRS (BUNKS)",
+                "description": "DRAWERS."
+            },
+            {
+                "title": "DP ON TANK TOP",
+                "description": "DRAIN POT."
+            },
+            {
+                "title": "FE",
+                "description": "FIREMAN'S ESCAPE."
+            },
+            {
+                "title": "FL",
+                "description": "FOLDING LAVATORY."
+            },
+            {
+                "title": "FW",
+                "description": "FRESH WATER."
+            },
+            {
+                "title": "GI",
+                "description": "GALVANIZED IRON."
+            },
+            {
+                "title": "H",
+                "description": "HEATER."
+            },
+            {
+                "title": "H",
+                "description": "HOIST."
+            },
+            {
+                "title": "HP",
+                "description": "HOT PRESS."
+            },
+            {
+                "title": "LOR LK",
+                "description": "LOCKER."
+            },
+            {
+                "title": "L&A",
+                "description": "LIGHT & AIR."
+            },
+            {
+                "title": "MP",
+                "description": "MOORING PIPE."
+            },
+            {
+                "title": "PT",
+                "description": "PIPE TUNNEL."
+            },
+            {
+                "title": "P ON TANK TOP",
+                "description": "PLATE OVER MAN HOLE."
+            },
+            {
+                "title": "S IN FOREPEAKS",
+                "description": "SCUTTLE."
+            },
+            {
+                "title": "S ON BOAT DECK",
+                "description": "SKID LIGHT."
+            },
+            {
+                "title": "SB",
+                "description": "SIDE BOARD."
+            },
+            {
+                "title": "TOR TE",
+                "description": "TUNNEL ESCAPE."
+            },
+            {
+                "title": "TV",
+                "description": "TUNNEL VENT."
+            },
+            {
+                "title": "V",
+                "description": "VENT."
+            },
+            {
+                "title": "V",
+                "description": "UTLEY'S VENTILATING PORTHOLE."
+            },
+            {
+                "title": "W",
+                "description": "WARDROBE."
+            },
+            {
+                "title": "WP",
+                "description": "WASH PORT."
+            },
+            {
+                "title": "WT",
+                "description": "WATERTIGHT."
+            },
+            {
+                "title": "WTB",
+                "description": "WATERTIGHT BULKHEAD."
+            },
+            {
+                "title": "WT",
+                "description": "WRITING TABLE."
+            }
+        ]
     }
 ]

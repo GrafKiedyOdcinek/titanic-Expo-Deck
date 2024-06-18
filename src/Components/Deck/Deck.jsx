@@ -53,9 +53,9 @@ const Deck = ({ selectedDeck, data }) => {
         <TransformWrapper ref={transformComponentRef}>
           <TransformComponent>
             <img
-              src={`/deck/${selectedDeck}.gif`}
+              src={`/deck/${selectedDeck}.png`}
               alt={`${selectedDeck} plan`}
-              className="w-full min-h-[500px] max-h-[500px] object-contain"
+              className="w-full min-h-[600px] max-h-[600px] object-contain"
             />
           </TransformComponent>
         </TransformWrapper>
