@@ -53,7 +53,7 @@ const Deck = ({ selectedDeck, data }) => {
         <TransformWrapper ref={transformComponentRef} style={"width: 100%"}>
           <TransformComponent>
             <img
-              src={`/deck/${selectedDeck}.png`}
+              src={`/deck/${selectedDeck}.webp`}
               alt={`${selectedDeck} plan`}
               className="w-full min-h-[600px] max-h-[600px] object-contain"
             />
@@ -66,6 +66,11 @@ const Deck = ({ selectedDeck, data }) => {
         </div>
         <div className="zoom-out" onClick={handleZoomOut}>
           <i className="fa-solid fa-magnifying-glass-minus text-2xl cursor-pointer"></i>
+        </div>
+        <div className="reset-zoom" onClick={resetZoom}>
+          <span className="text-xs cursor-pointer bg-white border rounded-full text-black p-2">
+            Reset Zoom
+          </span>
         </div>
       </div>
       <div className="deck-details mt-10 flex flex-col md:flex-row justify-between p-4 gap-10">

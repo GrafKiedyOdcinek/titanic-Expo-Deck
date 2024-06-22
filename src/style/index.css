@@ -197,7 +197,7 @@ h1 {
   display: flex;
   align-items: center;
   justify-content: center;
-  min-height: 70vh;
+  min-height: 65vh;
 }
 
 @media screen and (min-width: 320px) and (max-width: 768px) {

@@ -436,581 +436,726 @@
     },
     {
         "name": "D-DECK",
-        "firstClass": "1ST CLASS: ALL UPPER BERTHS (NO.2) IN ROOMS ON THIS DECK WERE PULLMAN BERTHS AND FOLDED UP",
-        "rooms": "ROOMS D 40, 42, 43, 44, 45, 46, 47, 48, 49 AND 50 WERE SO FITTED THAT A PULLMAN UPPER BERTH FOR A SECOND PASSENGER COULD BE PROVIDED WHEN REQUIRED.",
-        "secondClass": "2ND CLASS: BERTHS NUMBERED 1 AND 3 WERE LOWER BERTHS (BUNKS) AND BERTHS NUMBERED 2 AND 4 WERE UPPER BERTHS. BERTHS LABELED 3 AND 4 DESIGNATED AS UPHOLSTERED WERE SOFA BERTHS IN WHICH THE BACK PANEL COULD BE LIFTED TO FORM A BERTH IN CONJUNCTION WITH THE SEAT. UNNUMBERED SOFAS WERE SUITABLE FOR A CHILD IF NECESSARY.",
-        "thirdClass": "3RD CLASS: BUNKS WERE TWO TIERED (2B). SINGLE WOMEN AND FAMILIES AFT.",
+        "firstClass": "1ère CLASSE : HÉBERGEMENTS LIMITÉS, GÉNÉRALEMENT UTILISÉS POUR LE STOCKAGE ET LES ZONES D'ÉQUIPAGE.",
+        "rooms": "LES CHAMBRES G 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44 AVAIENT DES COUCHETTES PULLMAN.",
+        "secondClass": "2ème CLASSE : SIMILAIRE AUX AUTRES PONTS, AVEC COUCHETTES INFÉRIEURES ET SUPÉRIEURES.",
+        "thirdClass": "3ème CLASSE : HÉBERGEMENTS SIMILAIRES AUX AUTRES PONTS AVEC LITS SUPERPOSÉS À DEUX NIVEAUX.",
         "details": [
             {
                 "title": "AE",
-                "description": "ASH EJECTOR."
+                "description": "ÉJECTEUR DE CENDRES."
             },
             {
                 "title": "B",
-                "description": "BUNK."
+                "description": "LIT SUPERPOSÉ."
             },
             {
                 "title": "BR",
-                "description": "BAG RACK."
+                "description": "PORTE-BAGAGES."
             },
             {
                 "title": "CS",
-                "description": "COAL SHUTE."
+                "description": "TRÉMIE À CHARBON."
             },
             {
                 "title": "D",
-                "description": "CHEST OF DRAWERS."
+                "description": "COMMODE."
             },
             {
                 "title": "DC",
-                "description": "DIRECT CONTACT."
+                "description": "CONTACT DIRECT."
             },
             {
                 "title": "DT",
-                "description": "DRESSING TABLE."
+                "description": "TABLE DE TOILETTE."
             },
             {
                 "title": "DRES",
-                "description": "DRESSER."
+                "description": "TOILETTE."
             },
             {
                 "title": "DRS (BUNKS)",
-                "description": "DRAWERS."
+                "description": "TIROIRS."
             },
             {
                 "title": "DP ON TANK TOP",
-                "description": "DRAIN POT."
+                "description": "POT DE VIDANGE."
             },
             {
                 "title": "FE",
-                "description": "FIREMAN'S ESCAPE."
+                "description": "ISSUE DE SECOURS DU POMPIER."
             },
             {
                 "title": "FL",
-                "description": "FOLDING LAVATORY."
+                "description": "LAVABO PLIANT."
             },
             {
                 "title": "FW",
-                "description": "FRESH WATER."
+                "description": "EAU FRAÎCHE."
             },
             {
                 "title": "GI",
-                "description": "GALVANIZED IRON."
+                "description": "FER GALVANISÉ."
             },
             {
                 "title": "H",
-                "description": "HEATER."
+                "description": "CHAUFFAGE."
             },
             {
                 "title": "H",
-                "description": "HOIST."
+                "description": "PALAN."
             },
             {
                 "title": "HP",
-                "description": "HOT PRESS."
+                "description": "PRESSE À CHAUD."
             },
             {
                 "title": "LOR LK",
-                "description": "LOCKER."
+                "description": "PLACARD."
             },
             {
                 "title": "L&A",
-                "description": "LIGHT & AIR."
+                "description": "LUMIÈRE & AIR."
             },
             {
                 "title": "MP",
-                "description": "MOORING PIPE."
+                "description": "TUYAU D'AMARRAGE."
             },
             {
                 "title": "PT",
-                "description": "PIPE TUNNEL."
+                "description": "TUNNEL À TUYAUX."
             },
             {
                 "title": "P ON TANK TOP",
-                "description": "PLATE OVER MAN HOLE."
+                "description": "PLAQUE SUR TROU D'HOMME."
             },
             {
                 "title": "S IN FOREPEAKS",
-                "description": "SCUTTLE."
+                "description": "SABORD."
             },
             {
                 "title": "S ON BOAT DECK",
-                "description": "SKID LIGHT."
+                "description": "LUMIÈRE D'AVANT."
             },
             {
                 "title": "SB",
-                "description": "SIDE BOARD."
+                "description": "BUFFET."
             },
             {
                 "title": "TOR TE",
-                "description": "TUNNEL ESCAPE."
+                "description": "ISSUE DE SECOURS DU TUNNEL."
             },
             {
                 "title": "TV",
-                "description": "TUNNEL VENT."
+                "description": "VENTILATION DU TUNNEL."
             },
             {
                 "title": "V",
-                "description": "VENT."
+                "description": "VENTILATION."
             },
             {
                 "title": "V",
-                "description": "UTLEY'S VENTILATING PORTHOLE."
+                "description": "HUBLOT DE VENTILATION D'UTLEY."
             },
             {
                 "title": "W",
-                "description": "WARDROBE."
+                "description": "GARDE-ROBE."
             },
             {
                 "title": "WP",
-                "description": "WASH PORT."
+                "description": "PORTE DE LAVAGE."
             },
             {
                 "title": "WT",
-                "description": "WATERTIGHT."
+                "description": "ÉTANCHE."
             },
             {
                 "title": "WTB",
-                "description": "WATERTIGHT BULKHEAD."
+                "description": "CLOISON ÉTANCHE."
             },
             {
                 "title": "WT",
-                "description": "WRITING TABLE."
+                "description": "TABLE À ÉCRIRE."
             }
         ]
     },
     {
         "name": "E-DECK",
-        "firstClass": "1ST CLASS: ROOMS E 11, 12, 14, 15, 26, 27, 38, 39, 40, 41 AND 42 WERE SO FITTED THAT A PULLMAN UPPER BERTH FOR A SECOND PASSENGER COULD BE PROVIDED WHEN REQUIRED.",
-        "rooms": "",
-        "secondClass": "2ND CLASS: BERTHS NUMBERED 1 AND 3 WERE LOWER BERTHS (BUNKS) AND BERTHS NUMBERED 2 AND 4 WERE UPPER BERTHS. BERTHS LABELED 3 AND 4 DESIGNATED AS UPHOLSTERED WERE SOFA BERTHS IN WHICH THE BACK PANEL COULD BE LIFTED TO FORM A BERTH IN CONJUNCTION WITH THE SEAT. UNNUMBERED SOFAS WERE SUITABLE FOR A CHILD IF NECESSARY.",
-        "thirdClass": "3RD CLASS: BUNKS WERE TWO TIERED (2B). SINGLE MEN BERTHED FORWARD. SINGLE WOMEN AND FAMILIES AFT.",
+        "firstClass": "1ère CLASSE : HÉBERGEMENTS LIMITÉS, GÉNÉRALEMENT UTILISÉS POUR LE STOCKAGE ET LES ZONES D'ÉQUIPAGE.",
+        "rooms": "LES CHAMBRES G 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44 AVAIENT DES COUCHETTES PULLMAN.",
+        "secondClass": "2ème CLASSE : SIMILAIRE AUX AUTRES PONTS, AVEC COUCHETTES INFÉRIEURES ET SUPÉRIEURES.",
+        "thirdClass": "3ème CLASSE : HÉBERGEMENTS SIMILAIRES AUX AUTRES PONTS AVEC LITS SUPERPOSÉS À DEUX NIVEAUX.",
         "details": [
             {
                 "title": "AE",
-                "description": "ASH EJECTOR."
+                "description": "ÉJECTEUR DE CENDRES."
             },
             {
                 "title": "B",
-                "description": "BUNK."
+                "description": "LIT SUPERPOSÉ."
             },
             {
                 "title": "BR",
-                "description": "BAG RACK."
+                "description": "PORTE-BAGAGES."
             },
             {
                 "title": "CS",
-                "description": "COAL SHUTE."
+                "description": "TRÉMIE À CHARBON."
             },
             {
                 "title": "D",
-                "description": "CHEST OF DRAWERS."
+                "description": "COMMODE."
             },
             {
                 "title": "DC",
-                "description": "DIRECT CONTACT."
+                "description": "CONTACT DIRECT."
             },
             {
                 "title": "DT",
-                "description": "DRESSING TABLE."
+                "description": "TABLE DE TOILETTE."
             },
             {
                 "title": "DRES",
-                "description": "DRESSER."
+                "description": "TOILETTE."
             },
             {
                 "title": "DRS (BUNKS)",
-                "description": "DRAWERS."
+                "description": "TIROIRS."
             },
             {
                 "title": "DP ON TANK TOP",
-                "description": "DRAIN POT."
+                "description": "POT DE VIDANGE."
             },
             {
                 "title": "FE",
-                "description": "FIREMAN'S ESCAPE."
+                "description": "ISSUE DE SECOURS DU POMPIER."
             },
             {
                 "title": "FL",
-                "description": "FOLDING LAVATORY."
+                "description": "LAVABO PLIANT."
             },
             {
                 "title": "FW",
-                "description": "FRESH WATER."
+                "description": "EAU FRAÎCHE."
             },
             {
                 "title": "GI",
-                "description": "GALVANIZED IRON."
+                "description": "FER GALVANISÉ."
             },
             {
                 "title": "H",
-                "description": "HEATER."
+                "description": "CHAUFFAGE."
             },
             {
                 "title": "H",
-                "description": "HOIST."
+                "description": "PALAN."
             },
             {
                 "title": "HP",
-                "description": "HOT PRESS."
+                "description": "PRESSE À CHAUD."
             },
             {
                 "title": "LOR LK",
-                "description": "LOCKER."
+                "description": "PLACARD."
             },
             {
                 "title": "L&A",
-                "description": "LIGHT & AIR."
+                "description": "LUMIÈRE & AIR."
             },
             {
                 "title": "MP",
-                "description": "MOORING PIPE."
+                "description": "TUYAU D'AMARRAGE."
             },
             {
                 "title": "PT",
-                "description": "PIPE TUNNEL."
+                "description": "TUNNEL À TUYAUX."
             },
             {
                 "title": "P ON TANK TOP",
-                "description": "PLATE OVER MAN HOLE."
+                "description": "PLAQUE SUR TROU D'HOMME."
             },
             {
                 "title": "S IN FOREPEAKS",
-                "description": "SCUTTLE."
+                "description": "SABORD."
             },
             {
                 "title": "S ON BOAT DECK",
-                "description": "SKID LIGHT."
+                "description": "LUMIÈRE D'AVANT."
             },
             {
                 "title": "SB",
-                "description": "SIDE BOARD."
+                "description": "BUFFET."
             },
             {
                 "title": "TOR TE",
-                "description": "TUNNEL ESCAPE."
+                "description": "ISSUE DE SECOURS DU TUNNEL."
             },
             {
                 "title": "TV",
-                "description": "TUNNEL VENT."
+                "description": "VENTILATION DU TUNNEL."
             },
             {
                 "title": "V",
-                "description": "VENT."
+                "description": "VENTILATION."
             },
             {
                 "title": "V",
-                "description": "UTLEY'S VENTILATING PORTHOLE."
+                "description": "HUBLOT DE VENTILATION D'UTLEY."
             },
             {
                 "title": "W",
-                "description": "WARDROBE."
+                "description": "GARDE-ROBE."
             },
             {
                 "title": "WP",
-                "description": "WASH PORT."
+                "description": "PORTE DE LAVAGE."
             },
             {
                 "title": "WT",
-                "description": "WATERTIGHT."
+                "description": "ÉTANCHE."
             },
             {
                 "title": "WTB",
-                "description": "WATERTIGHT BULKHEAD."
+                "description": "CLOISON ÉTANCHE."
             },
             {
                 "title": "WT",
-                "description": "WRITING TABLE."
+                "description": "TABLE À ÉCRIRE."
             }
         ]
     },
     {
         "name": "F-DECK",
-        "firstClass": "",
-        "rooms": "2ND CLASS: BERTHS NUMBERED 1 AND 3 WERE LOWER BERTHS (BUNKS) AND BERTHS NUMBERED 2 AND 4 WERE UPPER BERTHS. BERTHS LABELED 3 AND 4 DESIGNATED AS UPHOLSTERED WERE SOFA BERTHS IN WHICH THE BACK PANEL COULD BE LIFTED TO FORM A BERTH IN CONJUNCTION WITH THE SEAT. UNNUMBERED SOFAS WERE SUITABLE FOR A CHILD IF NECESSARY.",
-        "secondClass": "2ND CLASS: BERTHS NUMBERED 1 AND 3 WERE LOWER BERTHS (BUNKS) AND BERTHS NUMBERED 2 AND 4 WERE UPPER BERTHS. BERTHS LABELED 3 AND 4 DESIGNATED AS UPHOLSTERED WERE SOFA BERTHS IN WHICH THE BACK PANEL COULD BE LIFTED TO FORM A BERTH IN CONJUNCTION WITH THE SEAT. UNNUMBERED SOFAS WERE SUITABLE FOR A CHILD IF NECESSARY.",
-        "thirdClass": "3RD CLASS: BUNKS WERE TWO TIERED (2B). SINGLE MEN BERTHED FORWARD. SINGLE WOMEN AND FAMILIES AFT.",
+        "firstClass": "1ère CLASSE : HÉBERGEMENTS LIMITÉS, GÉNÉRALEMENT UTILISÉS POUR LE STOCKAGE ET LES ZONES D'ÉQUIPAGE.",
+        "rooms": "LES CHAMBRES G 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44 AVAIENT DES COUCHETTES PULLMAN.",
+        "secondClass": "2ème CLASSE : SIMILAIRE AUX AUTRES PONTS, AVEC COUCHETTES INFÉRIEURES ET SUPÉRIEURES.",
+        "thirdClass": "3ème CLASSE : HÉBERGEMENTS SIMILAIRES AUX AUTRES PONTS AVEC LITS SUPERPOSÉS À DEUX NIVEAUX.",
         "details": [
             {
                 "title": "AE",
-                "description": "ASH EJECTOR."
+                "description": "ÉJECTEUR DE CENDRES."
             },
             {
                 "title": "B",
-                "description": "BUNK."
+                "description": "LIT SUPERPOSÉ."
             },
             {
                 "title": "BR",
-                "description": "BAG RACK."
+                "description": "PORTE-BAGAGES."
             },
             {
                 "title": "CS",
-                "description": "COAL SHUTE."
+                "description": "TRÉMIE À CHARBON."
             },
             {
                 "title": "D",
-                "description": "CHEST OF DRAWERS."
+                "description": "COMMODE."
             },
             {
                 "title": "DC",
-                "description": "DIRECT CONTACT."
+                "description": "CONTACT DIRECT."
             },
             {
                 "title": "DT",
-                "description": "DRESSING TABLE."
+                "description": "TABLE DE TOILETTE."
             },
             {
                 "title": "DRES",
-                "description": "DRESSER."
+                "description": "TOILETTE."
             },
             {
                 "title": "DRS (BUNKS)",
-                "description": "DRAWERS."
+                "description": "TIROIRS."
             },
             {
                 "title": "DP ON TANK TOP",
-                "description": "DRAIN POT."
+                "description": "POT DE VIDANGE."
             },
             {
                 "title": "FE",
-                "description": "FIREMAN'S ESCAPE."
+                "description": "ISSUE DE SECOURS DU POMPIER."
             },
             {
                 "title": "FL",
-                "description": "FOLDING LAVATORY."
+                "description": "LAVABO PLIANT."
             },
             {
                 "title": "FW",
-                "description": "FRESH WATER."
+                "description": "EAU FRAÎCHE."
             },
             {
                 "title": "GI",
-                "description": "GALVANIZED IRON."
+                "description": "FER GALVANISÉ."
             },
             {
                 "title": "H",
-                "description": "HEATER."
+                "description": "CHAUFFAGE."
             },
             {
                 "title": "H",
-                "description": "HOIST."
+                "description": "PALAN."
             },
             {
                 "title": "HP",
-                "description": "HOT PRESS."
+                "description": "PRESSE À CHAUD."
             },
             {
                 "title": "LOR LK",
-                "description": "LOCKER."
+                "description": "PLACARD."
             },
             {
                 "title": "L&A",
-                "description": "LIGHT & AIR."
+                "description": "LUMIÈRE & AIR."
             },
             {
                 "title": "MP",
-                "description": "MOORING PIPE."
+                "description": "TUYAU D'AMARRAGE."
             },
             {
                 "title": "PT",
-                "description": "PIPE TUNNEL."
+                "description": "TUNNEL À TUYAUX."
             },
             {
                 "title": "P ON TANK TOP",
-                "description": "PLATE OVER MAN HOLE."
+                "description": "PLAQUE SUR TROU D'HOMME."
             },
             {
                 "title": "S IN FOREPEAKS",
-                "description": "SCUTTLE."
+                "description": "SABORD."
             },
             {
                 "title": "S ON BOAT DECK",
-                "description": "SKID LIGHT."
+                "description": "LUMIÈRE D'AVANT."
             },
             {
                 "title": "SB",
-                "description": "SIDE BOARD."
+                "description": "BUFFET."
             },
             {
                 "title": "TOR TE",
-                "description": "TUNNEL ESCAPE."
+                "description": "ISSUE DE SECOURS DU TUNNEL."
             },
             {
                 "title": "TV",
-                "description": "TUNNEL VENT."
+                "description": "VENTILATION DU TUNNEL."
             },
             {
                 "title": "V",
-                "description": "VENT."
+                "description": "VENTILATION."
             },
             {
                 "title": "V",
-                "description": "UTLEY'S VENTILATING PORTHOLE."
+                "description": "HUBLOT DE VENTILATION D'UTLEY."
             },
             {
                 "title": "W",
-                "description": "WARDROBE."
+                "description": "GARDE-ROBE."
             },
             {
                 "title": "WP",
-                "description": "WASH PORT."
+                "description": "PORTE DE LAVAGE."
             },
             {
                 "title": "WT",
-                "description": "WATERTIGHT."
+                "description": "ÉTANCHE."
             },
             {
                 "title": "WTB",
-                "description": "WATERTIGHT BULKHEAD."
+                "description": "CLOISON ÉTANCHE."
             },
             {
                 "title": "WT",
-                "description": "WRITING TABLE."
+                "description": "TABLE À ÉCRIRE."
             }
         ]
     },
     {
         "name": "G-DECK",
-        "firstClass": "",
-        "rooms": "",
-        "secondClass": "",
-        "thirdClass": "3RD CLASS: BUNKS WERE TWO TIERED (2B). SINGLE MEN BERTHED FORWARD. SINGLE WOMEN AND FAMILIES AFT.",
+        "firstClass": "1ère CLASSE : HÉBERGEMENTS LIMITÉS, GÉNÉRALEMENT UTILISÉS POUR LE STOCKAGE ET LES ZONES D'ÉQUIPAGE.",
+        "rooms": "LES CHAMBRES G 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44 AVAIENT DES COUCHETTES PULLMAN.",
+        "secondClass": "2ème CLASSE : SIMILAIRE AUX AUTRES PONTS, AVEC COUCHETTES INFÉRIEURES ET SUPÉRIEURES.",
+        "thirdClass": "3ème CLASSE : HÉBERGEMENTS SIMILAIRES AUX AUTRES PONTS AVEC LITS SUPERPOSÉS À DEUX NIVEAUX.",
         "details": [
             {
                 "title": "AE",
-                "description": "ASH EJECTOR."
+                "description": "ÉJECTEUR DE CENDRES."
             },
             {
                 "title": "B",
-                "description": "BUNK."
+                "description": "LIT SUPERPOSÉ."
             },
             {
                 "title": "BR",
-                "description": "BAG RACK."
+                "description": "PORTE-BAGAGES."
             },
             {
                 "title": "CS",
-                "description": "COAL SHUTE."
+                "description": "TRÉMIE À CHARBON."
             },
             {
                 "title": "D",
-                "description": "CHEST OF DRAWERS."
+                "description": "COMMODE."
             },
             {
                 "title": "DC",
-                "description": "DIRECT CONTACT."
+                "description": "CONTACT DIRECT."
             },
             {
                 "title": "DT",
-                "description": "DRESSING TABLE."
+                "description": "TABLE DE TOILETTE."
             },
             {
                 "title": "DRES",
-                "description": "DRESSER."
+                "description": "TOILETTE."
             },
             {
                 "title": "DRS (BUNKS)",
-                "description": "DRAWERS."
+                "description": "TIROIRS."
             },
             {
                 "title": "DP ON TANK TOP",
-                "description": "DRAIN POT."
+                "description": "POT DE VIDANGE."
             },
             {
                 "title": "FE",
-                "description": "FIREMAN'S ESCAPE."
+                "description": "ISSUE DE SECOURS DU POMPIER."
             },
             {
                 "title": "FL",
-                "description": "FOLDING LAVATORY."
+                "description": "LAVABO PLIANT."
             },
             {
                 "title": "FW",
-                "description": "FRESH WATER."
+                "description": "EAU FRAÎCHE."
             },
             {
                 "title": "GI",
-                "description": "GALVANIZED IRON."
+                "description": "FER GALVANISÉ."
             },
             {
                 "title": "H",
-                "description": "HEATER."
+                "description": "CHAUFFAGE."
             },
             {
                 "title": "H",
-                "description": "HOIST."
+                "description": "PALAN."
             },
             {
                 "title": "HP",
-                "description": "HOT PRESS."
+                "description": "PRESSE À CHAUD."
             },
             {
                 "title": "LOR LK",
-                "description": "LOCKER."
+                "description": "PLACARD."
             },
             {
                 "title": "L&A",
-                "description": "LIGHT & AIR."
+                "description": "LUMIÈRE & AIR."
             },
             {
                 "title": "MP",
-                "description": "MOORING PIPE."
+                "description": "TUYAU D'AMARRAGE."
             },
             {
                 "title": "PT",
-                "description": "PIPE TUNNEL."
+                "description": "TUNNEL À TUYAUX."
             },
             {
                 "title": "P ON TANK TOP",
-                "description": "PLATE OVER MAN HOLE."
+                "description": "PLAQUE SUR TROU D'HOMME."
             },
             {
                 "title": "S IN FOREPEAKS",
-                "description": "SCUTTLE."
+                "description": "SABORD."
             },
             {
                 "title": "S ON BOAT DECK",
-                "description": "SKID LIGHT."
+                "description": "LUMIÈRE D'AVANT."
             },
             {
                 "title": "SB",
-                "description": "SIDE BOARD."
+                "description": "BUFFET."
             },
             {
                 "title": "TOR TE",
-                "description": "TUNNEL ESCAPE."
+                "description": "ISSUE DE SECOURS DU TUNNEL."
             },
             {
                 "title": "TV",
-                "description": "TUNNEL VENT."
+                "description": "VENTILATION DU TUNNEL."
             },
             {
                 "title": "V",
-                "description": "VENT."
+                "description": "VENTILATION."
             },
             {
                 "title": "V",
-                "description": "UTLEY'S VENTILATING PORTHOLE."
+                "description": "HUBLOT DE VENTILATION D'UTLEY."
             },
             {
                 "title": "W",
-                "description": "WARDROBE."
+                "description": "GARDE-ROBE."
             },
             {
                 "title": "WP",
-                "description": "WASH PORT."
+                "description": "PORTE DE LAVAGE."
             },
             {
                 "title": "WT",
-                "description": "WATERTIGHT."
+                "description": "ÉTANCHE."
             },
             {
                 "title": "WTB",
-                "description": "WATERTIGHT BULKHEAD."
+                "description": "CLOISON ÉTANCHE."
             },
             {
                 "title": "WT",
-                "description": "WRITING TABLE."
+                "description": "TABLE À ÉCRIRE."
+            }
+        ]
+    },
+    {
+        "name": "H-DECK",
+        "firstClass": "1ère CLASSE : HÉBERGEMENTS LIMITÉS, GÉNÉRALEMENT UTILISÉS POUR LE STOCKAGE ET LES ZONES D'ÉQUIPAGE.",
+        "rooms": "LES CHAMBRES G 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44 AVAIENT DES COUCHETTES PULLMAN.",
+        "secondClass": "2ème CLASSE : SIMILAIRE AUX AUTRES PONTS, AVEC COUCHETTES INFÉRIEURES ET SUPÉRIEURES.",
+        "thirdClass": "3ème CLASSE : HÉBERGEMENTS SIMILAIRES AUX AUTRES PONTS AVEC LITS SUPERPOSÉS À DEUX NIVEAUX.",
+        "details": [
+            {
+                "title": "AE",
+                "description": "ÉJECTEUR DE CENDRES."
+            },
+            {
+                "title": "B",
+                "description": "LIT SUPERPOSÉ."
+            },
+            {
+                "title": "BR",
+                "description": "PORTE-BAGAGES."
+            },
+            {
+                "title": "CS",
+                "description": "TRÉMIE À CHARBON."
+            },
+            {
+                "title": "D",
+                "description": "COMMODE."
+            },
+            {
+                "title": "DC",
+                "description": "CONTACT DIRECT."
+            },
+            {
+                "title": "DT",
+                "description": "TABLE DE TOILETTE."
+            },
+            {
+                "title": "DRES",
+                "description": "TOILETTE."
+            },
+            {
+                "title": "DRS (BUNKS)",
+                "description": "TIROIRS."
+            },
+            {
+                "title": "DP ON TANK TOP",
+                "description": "POT DE VIDANGE."
+            },
+            {
+                "title": "FE",
+                "description": "ISSUE DE SECOURS DU POMPIER."
+            },
+            {
+                "title": "FL",
+                "description": "LAVABO PLIANT."
+            },
+            {
+                "title": "FW",
+                "description": "EAU FRAÎCHE."
+            },
+            {
+                "title": "GI",
+                "description": "FER GALVANISÉ."
+            },
+            {
+                "title": "H",
+                "description": "CHAUFFAGE."
+            },
+            {
+                "title": "H",
+                "description": "PALAN."
+            },
+            {
+                "title": "HP",
+                "description": "PRESSE À CHAUD."
+            },
+            {
+                "title": "LOR LK",
+                "description": "PLACARD."
+            },
+            {
+                "title": "L&A",
+                "description": "LUMIÈRE & AIR."
+            },
+            {
+                "title": "MP",
+                "description": "TUYAU D'AMARRAGE."
+            },
+            {
+                "title": "PT",
+                "description": "TUNNEL À TUYAUX."
+            },
+            {
+                "title": "P ON TANK TOP",
+                "description": "PLAQUE SUR TROU D'HOMME."
+            },
+            {
+                "title": "S IN FOREPEAKS",
+                "description": "SABORD."
+            },
+            {
+                "title": "S ON BOAT DECK",
+                "description": "LUMIÈRE D'AVANT."
+            },
+            {
+                "title": "SB",
+                "description": "BUFFET."
+            },
+            {
+                "title": "TOR TE",
+                "description": "ISSUE DE SECOURS DU TUNNEL."
+            },
+            {
+                "title": "TV",
+                "description": "VENTILATION DU TUNNEL."
+            },
+            {
+                "title": "V",
+                "description": "VENTILATION."
+            },
+            {
+                "title": "V",
+                "description": "HUBLOT DE VENTILATION D'UTLEY."
+            },
+            {
+                "title": "W",
+                "description": "GARDE-ROBE."
+            },
+            {
+                "title": "WP",
+                "description": "PORTE DE LAVAGE."
+            },
+            {
+                "title": "WT",
+                "description": "ÉTANCHE."
+            },
+            {
+                "title": "WTB",
+                "description": "CLOISON ÉTANCHE."
+            },
+            {
+                "title": "WT",
+                "description": "TABLE À ÉCRIRE."
             }
         ]
     }
