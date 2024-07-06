@@ -68,14 +68,14 @@ const Deck = ({ selectedDeck, data }) => {
           <i className="fa-solid fa-magnifying-glass-minus text-2xl cursor-pointer"></i>
         </div>
         <div className="reset-zoom" onClick={resetZoom}>
-          <span className="text-xs cursor-pointer bg-white border rounded-full text-black p-2">
+          <span className="text-xs cursor-pointer bg-white border rounded-full text-black p-2 ripple">
             Reset Zoom
           </span>
         </div>
       </div>
       <div className="deck-details mt-10 flex flex-col md:flex-row justify-between p-4 gap-10">
         <div className="detail-item md:w-[40%] sm:w-full">
-          <h3 className="text-lg font-semibold mb-2">{selectedDeck}</h3>
+          <h3 className="text-4xl font-semibold mb-7">{selectedDeck}</h3>
           <div className="class-room flex flex-col gap-4">
             <p className="text-xs">{firstClass}</p>
             <p className="text-xs">{room}</p>
