@@ -12,6 +12,7 @@ import deckDataEN from "./Data/galerieEN.json";
 import deckDataFR from "./Data/galerieFR.json";
 import Deck from "./Components/Deck/Deck";
 import Ornement from "./Components/Ornement/Ornement";
+import FullScreenButton from "./Components/Fullscreen";
 
 function App() {
   const [data, setData] = useState([]);
@@ -125,6 +126,7 @@ function App() {
         </TransitionGroup>
       </main>
       <Ornement />
+      <FullScreenButton />
     </div>
   );
 }
