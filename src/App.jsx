@@ -119,7 +119,9 @@ function App() {
           </div>
         </header>
       </div>
-      <div className="separator border mt-6"></div>
+      <div className="flex justify-center">
+        <div className="separator border mt-6 w-[80%]"></div>
+      </div>
       <main className="p-10">
         <TransitionGroup>
           <CSSTransition key={selectedDeck} timeout={500} classNames="bounce">
