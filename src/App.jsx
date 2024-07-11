@@ -124,13 +124,13 @@ function App() {
       </div>
       <main className="p-10">
         <TransitionGroup>
-          <CSSTransition key={selectedDeck} timeout={500} classNames="bounce">
-            <Deck
-              selectedDeck={selectedDeck}
-              setSelectedDeck={setSelectedDeck}
-              data={data}
-            />
-          </CSSTransition>
+          {/* <CSSTransition key={selectedDeck} timeout={500} classNames="bounce"> */}
+          <Deck
+            selectedDeck={selectedDeck}
+            setSelectedDeck={setSelectedDeck}
+            data={data}
+          />
+          {/* </CSSTransition> */}
         </TransitionGroup>
       </main>
       <Ornement />
