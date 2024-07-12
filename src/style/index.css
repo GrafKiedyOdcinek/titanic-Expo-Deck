@@ -198,6 +198,8 @@ h1 {
   align-items: center;
   justify-content: center;
   min-height: 60vh;
+  width: 90%;
+  margin: auto;
 }
 
 @media screen and (min-width: 320px) and (max-width: 768px) {
@@ -262,4 +264,11 @@ h1 {
 
 .fa-solid:active {
   transform: scale(0.8);
+}
+
+footer {
+  position: absolute;
+  bottom: -80px;
+  width: 100%;
+  left: 0;
 }

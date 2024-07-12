@@ -6,7 +6,7 @@ import {
   PopoverContent,
   Typography,
 } from "@material-tailwind/react";
-import { CSSTransition, TransitionGroup } from "react-transition-group";
+// import { CSSTransition, TransitionGroup } from "react-transition-group";
 
 import deckDataEN from "./Data/galerieEN.json";
 import deckDataFR from "./Data/galerieFR.json";
@@ -56,7 +56,7 @@ function App() {
   };
 
   return (
-    <div className="p-4">
+    <div className="p-4 relative">
       <OrnementLeft />
       <OrnementRight />
       <div className="flex justify-center">
@@ -123,18 +123,20 @@ function App() {
         <div className="separator border mt-6 w-[80%]"></div>
       </div>
       <main className="p-10">
-        <TransitionGroup>
-          {/* <CSSTransition key={selectedDeck} timeout={500} classNames="bounce"> */}
-          <Deck
-            selectedDeck={selectedDeck}
-            setSelectedDeck={setSelectedDeck}
-            data={data}
-          />
-          {/* </CSSTransition> */}
-        </TransitionGroup>
+        {/* <TransitionGroup> */}
+        {/* <CSSTransition key={selectedDeck} timeout={500} classNames="bounce"> */}
+        <Deck
+          selectedDeck={selectedDeck}
+          setSelectedDeck={setSelectedDeck}
+          data={data}
+        />
+        {/* </CSSTransition> */}
+        {/* </TransitionGroup> */}
       </main>
-      <Ornement />
-      <FullScreenButton />
+      <footer>
+        <Ornement />
+        <FullScreenButton />
+      </footer>
     </div>
   );
 }
