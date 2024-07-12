@@ -55,7 +55,7 @@ const Deck = ({ selectedDeck, data }) => {
             <img
               src={`/deck/${selectedDeck}.webp`}
               alt={`${selectedDeck} plan`}
-              className="w-full min-h-[600px] max-h-[600px] object-contain"
+              className="w-full min-h-[400px] max-h-[400px] object-contain"
             />
           </TransformComponent>
         </TransformWrapper>
