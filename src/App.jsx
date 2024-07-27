@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useMemo } from "react";
 import "./style/index.css";
 import {
   Popover,
@@ -6,37 +6,28 @@ import {
   PopoverContent,
   Typography,
 } from "@material-tailwind/react";
-// import { CSSTransition, TransitionGroup } from "react-transition-group";
-
-import deckDataEN from "./Data/galerieEN.json";
-import deckDataFR from "./Data/galerieFR.json";
 import Deck from "./Components/Deck/Deck";
 import Ornement from "./Components/Ornement/Ornement";
 import FullScreenButton from "./Components/Fullscreen";
 import OrnementLeft from "./Components/Ornement/OrnementLeft";
 import OrnementRight from "./Components/Ornement/OrnementRight";
+import useTranslations from "./hooks/useTranslations";
 
 function App() {
-  const [data, setData] = useState([]);
+  const { translations, languages } = useTranslations();
   const [language, setLanguage] = useState(
     localStorage.getItem("language") || "EN"
   );
+
+  console.log(languages);
   const [selectedDeck, setSelectedDeck] = useState("D-DECK");
 
   useEffect(() => {
-    const loadData = () => {
-      if (language === "FR") {
-        setData(deckDataFR);
-      } else {
-        setData(deckDataEN);
-      }
-    };
-    loadData();
+    localStorage.setItem("language", language);
   }, [language]);
 
   const changeLanguage = (lang) => {
     setLanguage(lang);
-    localStorage.setItem("language", lang);
   };
 
   const getTranslation = (key) => {
@@ -47,6 +38,9 @@ function App() {
       FR: {
         subTitle: "TITANIC PLAN DE BLUESCREEN",
       },
+      IT: {
+        subTitle: "TITANIC BLUESCREEN LAYOUT",
+      },
     };
     return translations[language][key];
   };
@@ -54,6 +48,11 @@ function App() {
   const handleSelectChange = (event) => {
     setSelectedDeck(event.target.value);
   };
+
+  const data = useMemo(
+    () => translations[language] || [],
+    [language, translations]
+  );
 
   return (
     <div className="p-4 relative">
@@ -88,32 +87,24 @@ function App() {
                 </button>
               </PopoverHandler>
               <PopoverContent className="w-72 pb-0">
-                <div
-                  onClick={() => changeLanguage("FR")}
-                  className="mb-4 flex items-center gap-4 border-b border-blue-gray-50 pb-4 cursor-pointer"
-                >
-                  <div className="fr border rounded-full bg-[#0d1625] w-[30px] h-[30px] flex items-center justify-center">
-                    <p className="text-white">FR</p>
+                {languages.map((lang) => (
+                  <div
+                    key={lang}
+                    onClick={() => changeLanguage(lang)}
+                    className="mb-4 flex items-center gap-4 border-b border-blue-gray-50 pb-4 cursor-pointer"
+                  >
+                    <div
+                      className={`fr border rounded-full bg-[#0d1625] w-[30px] h-[30px] flex items-center justify-center`}
+                    >
+                      <p className="text-white">{lang}</p>
+                    </div>
+                    <div>
+                      <Typography variant="h6" color="blue-gray">
+                        {lang}
+                      </Typography>
+                    </div>
                   </div>
-                  <div>
-                    <Typography variant="h6" color="blue-gray">
-                      Français
-                    </Typography>
-                  </div>
-                </div>
-                <div
-                  onClick={() => changeLanguage("EN")}
-                  className="flex items-center gap-4 border-b border-blue-gray-50 pb-4 cursor-pointer"
-                >
-                  <div className="fr border rounded-full bg-[#0d1625] w-[30px] h-[30px] flex items-center justify-center">
-                    <p className="text-white">EN</p>
-                  </div>
-                  <div>
-                    <Typography variant="h6" color="blue-gray">
-                      English
-                    </Typography>
-                  </div>
-                </div>
+                ))}
               </PopoverContent>
             </Popover>
           </div>
@@ -123,15 +114,11 @@ function App() {
         <div className="separator border mt-6 w-[80%]"></div>
       </div>
       <main className="p-10">
-        {/* <TransitionGroup> */}
-        {/* <CSSTransition key={selectedDeck} timeout={500} classNames="bounce"> */}
         <Deck
           selectedDeck={selectedDeck}
           setSelectedDeck={setSelectedDeck}
           data={data}
         />
-        {/* </CSSTransition> */}
-        {/* </TransitionGroup> */}
       </main>
       <footer>
         <Ornement />
