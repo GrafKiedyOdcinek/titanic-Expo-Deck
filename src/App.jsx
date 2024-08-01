@@ -67,7 +67,7 @@ function App() {
           </div>
           <div className="grade flex flex-col gap-1 justify-center w-full text-4xl items-center">
             <h1 className="benchnine-bold">{selectedDeck}</h1>
-            <p className="font-brygada">{getTranslation("FR")}</p>
+            <p className="font-brygada">{getTranslation(language)}</p>
           </div>
           <div className="language flex gap-6">
             <Popover placement="bottom-end">
