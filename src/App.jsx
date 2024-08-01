@@ -20,7 +20,7 @@ function App() {
   );
 
   console.log(languages);
-  const [selectedDeck, setSelectedDeck] = useState("D-DECK");
+  const [selectedDeck, setSelectedDeck] = useState("RMS TITANIC");
 
   useEffect(() => {
     localStorage.setItem("language", language);
@@ -30,6 +30,7 @@ function App() {
     setLanguage(lang);
   };
 
+  // TO DO : Add translations JSON
   const getTranslation = (key) => {
     const translations = {
       EN: {

@@ -3,20 +3,20 @@ import { TransformWrapper, TransformComponent } from "react-zoom-pan-pinch";
 
 const Deck = ({ selectedDeck, data }) => {
   const [details, setDetails] = useState([]);
-  const [firstClass, setFirstClass] = useState("");
-  const [secondClass, setSecondClass] = useState("");
-  const [thirdClass, setThirdClass] = useState("");
-  const [room, setRoom] = useState("");
+  const [description, setDescription] = useState("");
+  const [description_2, setDescription_2] = useState("");
+  const [description_3, setDescription_3] = useState("");
+  const [description_4, setDescription_4] = useState("");
 
   const transformComponentRef = useRef(null);
 
   useEffect(() => {
     const deckDetails = data?.find((deck) => deck.name === selectedDeck);
     setDetails(deckDetails ? deckDetails.details : []);
-    setFirstClass(deckDetails ? deckDetails.firstClass : "");
-    setSecondClass(deckDetails ? deckDetails.secondClass : "");
-    setThirdClass(deckDetails ? deckDetails.thirdClass : "");
-    setRoom(deckDetails ? deckDetails.room : "");
+    setDescription(deckDetails ? deckDetails.description : "");
+    setDescription_2(deckDetails ? deckDetails.description_2 : "");
+    setDescription_3(deckDetails ? deckDetails.description_3 : "");
+    setDescription_4(deckDetails ? deckDetails.description_4 : "");
     resetZoom();
   }, [selectedDeck, data]);
 
@@ -77,10 +77,10 @@ const Deck = ({ selectedDeck, data }) => {
         <div className="detail-item md:w-[40%] sm:w-full">
           <h3 className="text-4xl font-semibold mb-7">{selectedDeck}</h3>
           <div className="class-room flex flex-col gap-4">
-            <p className="text-xs">{firstClass}</p>
-            <p className="text-xs">{room}</p>
-            <p className="text-xs">{secondClass}</p>
-            <p className="text-xs">{thirdClass}</p>
+            <p className="text-xs">{description ? description : null}</p>
+            <p className="text-xs">{description_2 ? description_2 : null}</p>
+            <p className="text-xs">{description_3 ? description_3 : null}</p>
+            <p className="text-xs">{description_4 ? description_4 : null}</p>
           </div>
         </div>
         <div className="details-deck-space md:w-[60%] h-full border border-white p-4 sm:w-full">
