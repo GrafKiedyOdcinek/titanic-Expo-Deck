@@ -12,6 +12,7 @@ import FullScreenButton from "./Components/Fullscreen";
 import OrnementLeft from "./Components/Ornement/OrnementLeft";
 import OrnementRight from "./Components/Ornement/OrnementRight";
 import useTranslations from "./hooks/useTranslations";
+import TitleTranslation from "./../public/Data/TitleTranslation.json";
 
 function App() {
   const { translations, languages } = useTranslations();
@@ -19,7 +20,6 @@ function App() {
     localStorage.getItem("language") || "EN"
   );
 
-  console.log(languages);
   const [selectedDeck, setSelectedDeck] = useState("RMS TITANIC");
 
   useEffect(() => {
@@ -30,20 +30,11 @@ function App() {
     setLanguage(lang);
   };
 
-  // TO DO : Add translations JSON
   const getTranslation = (key) => {
-    const translations = {
-      EN: {
-        subTitle: "TITANIC BLUESCREEN LAYOUT",
-      },
-      FR: {
-        subTitle: "TITANIC PLAN DE BLUESCREEN",
-      },
-      IT: {
-        subTitle: "TITANIC BLUESCREEN LAYOUT",
-      },
-    };
-    return translations[language][key];
+    const translation = TitleTranslation.find((item) =>
+      item?.translation?.[key] ? item : null
+    );
+    return translation ? translation.translation[language] : "";
   };
 
   const handleSelectChange = (event) => {
@@ -76,7 +67,7 @@ function App() {
           </div>
           <div className="grade flex flex-col gap-1 justify-center w-full text-4xl items-center">
             <h1 className="benchnine-bold">{selectedDeck}</h1>
-            <p className="font-brygada">{getTranslation("subTitle")}</p>
+            <p className="font-brygada">{getTranslation("FR")}</p>
           </div>
           <div className="language flex gap-6">
             <Popover placement="bottom-end">
