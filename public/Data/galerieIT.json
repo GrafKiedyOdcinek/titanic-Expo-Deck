@@ -1,1488 +1,1488 @@
 [
     {
         "name": "RMS TITANIC",
-        "description": "  ",
-        "description_2": "  ",
-        "description_3": "  ",
+        "description": " ",
+        "description_2": " ",
+        "description_3": " ",
         "description_4": "",
         "details": [
             {
                 "title": "AE",
-                "description": "ASH EJECTOR."
+                "description": "ESPULSORE DI CENERE."
             },
             {
                 "title": "B",
-                "description": "BUNK."
+                "description": "CUCCETTA."
             },
             {
                 "title": "BR",
-                "description": "BAG RACK."
+                "description": "PORTABORSE."
             },
             {
                 "title": "CS",
-                "description": "COAL SHUTE."
+                "description": "TRAMOGGIA PER IL CARBONE."
             },
             {
                 "title": "D",
-                "description": "CHEST OF DRAWERS."
+                "description": "CASSETTONE."
             },
             {
                 "title": "DC",
-                "description": "DIRECT CONTACT."
+                "description": "CONTATTO DIRETTO."
             },
             {
                 "title": "DT",
-                "description": "DRESSING TABLE."
+                "description": "TOILETTE."
             },
             {
                 "title": "DRES",
-                "description": "DRESSER."
+                "description": "COMÒ."
             },
             {
                 "title": "DRS (BUNKS)",
-                "description": "DRAWERS."
+                "description": "CASSETTI."
             },
             {
-                "title": "DP ON TANK TOP",
-                "description": "DRAIN POT."
+                "title": "DP SUL FONDO DEL SERBATOIO",
+                "description": "VASO DI DRENAGGIO."
             },
             {
                 "title": "FE",
-                "description": "FIREMAN'S ESCAPE."
+                "description": "USCITA DEL FUOCHISTA."
             },
             {
                 "title": "FL",
-                "description": "FOLDING LAVATORY."
+                "description": "LAVABO PIEGHEVOLE."
             },
             {
                 "title": "FW",
-                "description": "FRESH WATER."
+                "description": "ACQUA CORRENTE."
             },
             {
                 "title": "GI",
-                "description": "GALVANIZED IRON."
+                "description": "FERRO ZINCATO."
             },
             {
                 "title": "H",
-                "description": "HEATER."
+                "description": "RISCALDATORE."
             },
             {
                 "title": "H",
-                "description": "HOIST."
+                "description": "MONTACARICHI."
             },
             {
                 "title": "HP",
-                "description": "HOT PRESS."
+                "description": "PRESSA CALDA."
             },
             {
                 "title": "LOR LK",
-                "description": "LOCKER."
+                "description": "ARMADIO."
             },
             {
                 "title": "L&A",
-                "description": "LIGHT & AIR."
+                "description": "LUCE E ARIA."
             },
             {
                 "title": "MP",
-                "description": "MOORING PIPE."
+                "description": "TUBO DI ORMEGGIO."
             },
             {
                 "title": "PT",
-                "description": "PIPE TUNNEL."
+                "description": "TUNNEL PER TUBAZIONI."
             },
             {
-                "title": "P ON TANK TOP",
-                "description": "PLATE OVER MAN HOLE."
+                "title": "P SUL FONDO DEL SERBATOIO",
+                "description": "PIASTRA SOPRA IL TOMBINO."
             },
             {
-                "title": "S IN FOREPEAKS",
-                "description": "SCUTTLE."
+                "title": "S NELLA PRUA",
+                "description": "BOTOLA."
             },
             {
-                "title": "S ON BOAT DECK",
-                "description": "SKID LIGHT."
+                "title": "S SUL PONTE SUPERIORE",
+                "description": "LUCE SCORREVOLE."
             },
             {
                 "title": "SB",
-                "description": "SIDE BOARD."
+                "description": "CREDENZA."
             },
             {
                 "title": "TOR TE",
-                "description": "TUNNEL ESCAPE."
+                "description": "USCITA DEL TUNNEL."
             },
             {
                 "title": "TV",
-                "description": "TUNNEL VENT."
+                "description": "VENTILAZIONE DEL TUNNEL."
             },
             {
                 "title": "V",
-                "description": "VENT."
+                "description": "VENTILAZIONE."
             },
             {
                 "title": "V",
-                "description": "UTLEY'S VENTILATING PORTHOLE."
+                "description": "OBLO' DI VENTILAZIONE DI UTLEY."
             },
             {
                 "title": "W",
-                "description": "WARDROBE."
+                "description": "GUARDAROBA."
             },
             {
                 "title": "WP",
-                "description": "WASH PORT."
+                "description": "PORTA DI LAVAGGIO."
             },
             {
                 "title": "WT",
-                "description": "WATERTIGHT."
+                "description": "STAGNO."
             },
             {
                 "title": "WTB",
-                "description": "WATERTIGHT BULKHEAD."
+                "description": "PARATIA STAGNA."
             },
             {
                 "title": "WT",
-                "description": "WRITING TABLE."
+                "description": "SCRIVANIA."
             }
         ]
     },
     {
         "name": "BOAT DECK",
-        "description": "  ",
-        "description_2": "  ",
-        "description_3": "  ",
+        "description": " ",
+        "description_2": " ",
+        "description_3": " ",
         "description_4": "",
         "details": [
             {
                 "title": "AE",
-                "description": "ASH EJECTOR."
+                "description": "ESPULSORE DI CENERE."
             },
             {
                 "title": "B",
-                "description": "BUNK."
+                "description": "CUCCETTA."
             },
             {
                 "title": "BR",
-                "description": "BAG RACK."
+                "description": "PORTABORSE."
             },
             {
                 "title": "CS",
-                "description": "COAL SHUTE."
+                "description": "TRAMOGGIA PER IL CARBONE."
             },
             {
                 "title": "D",
-                "description": "CHEST OF DRAWERS."
+                "description": "CASSETTONE."
             },
             {
                 "title": "DC",
-                "description": "DIRECT CONTACT."
+                "description": "CONTATTO DIRETTO."
             },
             {
                 "title": "DT",
-                "description": "DRESSING TABLE."
+                "description": "TOILETTE."
             },
             {
                 "title": "DRES",
-                "description": "DRESSER."
+                "description": "COMÒ."
             },
             {
                 "title": "DRS (BUNKS)",
-                "description": "DRAWERS."
+                "description": "CASSETTI."
             },
             {
-                "title": "DP ON TANK TOP",
-                "description": "DRAIN POT."
+                "title": "DP SUL FONDO DEL SERBATOIO",
+                "description": "VASO DI DRENAGGIO."
             },
             {
                 "title": "FE",
-                "description": "FIREMAN'S ESCAPE."
+                "description": "USCITA DEL FUOCHISTA."
             },
             {
                 "title": "FL",
-                "description": "FOLDING LAVATORY."
+                "description": "LAVATOIO PIEGHEVOLE."
             },
             {
                 "title": "FW",
-                "description": "FRESH WATER."
+                "description": "ACQUA FRESCA."
             },
             {
                 "title": "GI",
-                "description": "GALVANIZED IRON."
+                "description": "FERRO ZINCATO."
             },
             {
                 "title": "H",
-                "description": "HEATER."
+                "description": "RISCALDATORE."
             },
             {
                 "title": "H",
-                "description": "HOIST."
+                "description": "MONTACARICHI."
             },
             {
                 "title": "HP",
-                "description": "HOT PRESS."
+                "description": "PRESSA CALDA."
             },
             {
                 "title": "LOR LK",
-                "description": "LOCKER."
+                "description": "ARMADIO."
             },
             {
                 "title": "L&A",
-                "description": "LIGHT & AIR."
+                "description": "LUCE E ARIA."
             },
             {
                 "title": "MP",
-                "description": "MOORING PIPE."
+                "description": "TUBO DI ORMEGGIO."
             },
             {
                 "title": "PT",
-                "description": "PIPE TUNNEL."
+                "description": "TUNNEL PER TUBAZIONI."
             },
             {
-                "title": "P ON TANK TOP",
-                "description": "PLATE OVER MAN HOLE."
+                "title": "P SUL FONDO DEL SERBATOIO",
+                "description": "PIASTRA SOPRA IL TOMBINO."
             },
             {
-                "title": "S IN FOREPEAKS",
-                "description": "SCUTTLE."
+                "title": "S NELLA PRUA",
+                "description": "BOTOLA."
             },
             {
-                "title": "S ON BOAT DECK",
-                "description": "SKID LIGHT."
+                "title": "S SUL PONTE DELLE BARCHE",
+                "description": "LUCE SCORREVOLE."
             },
             {
                 "title": "SB",
-                "description": "SIDE BOARD."
+                "description": "CREDENZA."
             },
             {
                 "title": "TOR TE",
-                "description": "TUNNEL ESCAPE."
+                "description": "USCITA DEL TUNNEL."
             },
             {
                 "title": "TV",
-                "description": "TUNNEL VENT."
+                "description": "VENTILAZIONE DEL TUNNEL."
             },
             {
                 "title": "V",
-                "description": "VENT."
+                "description": "VENTILAZIONE."
             },
             {
                 "title": "V",
-                "description": "UTLEY'S VENTILATING PORTHOLE."
+                "description": "OBLO' DI VENTILAZIONE DI UTLEY."
             },
             {
                 "title": "W",
-                "description": "WARDROBE."
+                "description": "GUARDAROBA."
             },
             {
                 "title": "WP",
-                "description": "WASH PORT."
+                "description": "PORTA DI LAVAGGIO."
             },
             {
                 "title": "WT",
-                "description": "WATERTIGHT."
+                "description": "STAGNO."
             },
             {
                 "title": "WTB",
-                "description": "WATERTIGHT BULKHEAD."
+                "description": "PARATIA STAGNA."
             },
             {
                 "title": "WT",
-                "description": "WRITING TABLE."
+                "description": "SCRIVANIA."
             }
         ]
     },
     {
         "name": "A DECK",
-        "description": "ALL UPPER BERTHS (NO.2) IN ROOMS ON THIS DECK WERE PULLMAN BERTHS AND FOLDED UP.",
-        "description_2": "ROOMS A 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 30, 31, 32 AND 33, WERE SO FITTED THAT A SOFA BERTH FOR AN EXTRA PASSENGER COULD BE PROVIDED WHEN REQUIRED.",
-        "description_3": "ROOMS A 5, 6, 9, 10, 14, 15, 18, 19, 22, 23, 26, 27, 30 AND 31, WERE LIGHTED AND VENTILATED FROM THE DECK ABOVE (BOAT DECK) INDICATED BY A DASHED CIRCLE.",
+        "description": "Tutte le cuccette superiori (No. 2) nelle stanze di questo ponte erano cuccette Pullman e si ripiegavano.",
+        "description_2": "Le stanze A 5, 6, 7, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 29, 30, 31, 32 E 33, ERANO DOTATE IN MODO TALE CHE UN LETTO DIVANO PER UN PASSEGGERO EXTRA POTEVANO ESSERE FORNITI ALL'OCCORRENZA.",
+        "description_3": "Le stanze A 5, 6, 9, 10, 14, 15, 18, 19, 22, 23, 26, 27, 30 E 31, ERANO ILLUMINATE E VENTILATE DAL PONTE SOPRASTANTE (PONTE DELLE BARCHE) INDICATO DA UN CERCHIO TRATTEGGIATO.",
         "description_4": "",
         "details": [
             {
                 "title": "AE",
-                "description": "ASH EJECTOR."
+                "description": "ESPULSORE DI CENERE."
             },
             {
                 "title": "B",
-                "description": "BUNK."
+                "description": "CUCCETTA."
             },
             {
                 "title": "BR",
-                "description": "BAG RACK."
+                "description": "PORTABORSE."
             },
             {
                 "title": "CS",
-                "description": "COAL SHUTE."
+                "description": "TRAMOGGIA PER IL CARBONE."
             },
             {
                 "title": "D",
-                "description": "CHEST OF DRAWERS."
+                "description": "CASSETTONE."
             },
             {
                 "title": "DC",
-                "description": "DIRECT CONTACT."
+                "description": "CONTATTO DIRETTO."
             },
             {
                 "title": "DT",
-                "description": "DRESSING TABLE."
+                "description": "TOILETTE."
             },
             {
                 "title": "DRES",
-                "description": "DRESSER."
+                "description": "COMÒ."
             },
             {
                 "title": "DRS (BUNKS)",
-                "description": "DRAWERS."
+                "description": "CASSETTI."
             },
             {
-                "title": "DP ON TANK TOP",
-                "description": "DRAIN POT."
+                "title": "DP SUL FONDO DEL SERBATOIO",
+                "description": "VASO DI DRENAGGIO."
             },
             {
                 "title": "FE",
-                "description": "FIREMAN'S ESCAPE."
+                "description": "USCITA DEL FUOCHISTA."
             },
             {
                 "title": "FL",
-                "description": "FOLDING LAVATORY."
+                "description": "LAVATOIO PIEGHEVOLE."
             },
             {
                 "title": "FW",
-                "description": "FRESH WATER."
+                "description": "ACQUA FRESCA."
             },
             {
                 "title": "GI",
-                "description": "GALVANIZED IRON."
+                "description": "FERRO ZINCATO."
             },
             {
                 "title": "H",
-                "description": "HEATER."
+                "description": "RISCALDATORE."
             },
             {
                 "title": "H",
-                "description": "HOIST."
+                "description": "MONTACARICHI."
             },
             {
                 "title": "HP",
-                "description": "HOT PRESS."
+                "description": "PRESSA CALDA."
             },
             {
                 "title": "LOR LK",
-                "description": "LOCKER."
+                "description": "ARMADIO."
             },
             {
                 "title": "L&A",
-                "description": "LIGHT & AIR."
+                "description": "LUCE E ARIA."
             },
             {
                 "title": "MP",
-                "description": "MOORING PIPE."
+                "description": "TUBO DI ORMEGGIO."
             },
             {
                 "title": "PT",
-                "description": "PIPE TUNNEL."
+                "description": "TUNNEL PER TUBAZIONI."
             },
             {
-                "title": "P ON TANK TOP",
-                "description": "PLATE OVER MAN HOLE."
+                "title": "P SUL FONDO DEL SERBATOIO",
+                "description": "PIASTRA SOPRA IL TOMBINO."
             },
             {
-                "title": "S IN FOREPEAKS",
-                "description": "SCUTTLE."
+                "title": "S NELLA PRUA",
+                "description": "BOTOLA."
             },
             {
-                "title": "S ON BOAT DECK",
-                "description": "SKID LIGHT."
+                "title": "S SUL PONTE DELLE BARCHE",
+                "description": "LUCE SCORREVOLE."
             },
             {
                 "title": "SB",
-                "description": "SIDE BOARD."
+                "description": "CREDENZA."
             },
             {
                 "title": "TOR TE",
-                "description": "TUNNEL ESCAPE."
+                "description": "USCITA DEL TUNNEL."
             },
             {
                 "title": "TV",
-                "description": "TUNNEL VENT."
+                "description": "VENTILAZIONE DEL TUNNEL."
             },
             {
                 "title": "V",
-                "description": "VENT."
+                "description": "VENTILAZIONE."
             },
             {
                 "title": "V",
-                "description": "UTLEY'S VENTILATING PORTHOLE."
+                "description": "OBLO' DI VENTILAZIONE DI UTLEY."
             },
             {
                 "title": "W",
-                "description": "WARDROBE."
+                "description": "GUARDAROBA."
             },
             {
                 "title": "WP",
-                "description": "WASH PORT."
+                "description": "PORTA DI LAVAGGIO."
             },
             {
                 "title": "WT",
-                "description": "WATERTIGHT."
+                "description": "STAGNO."
             },
             {
                 "title": "WTB",
-                "description": "WATERTIGHT BULKHEAD."
+                "description": "PARATIA STAGNA."
             },
             {
                 "title": "WT",
-                "description": "WRITING TABLE."
+                "description": "SCRIVANIA."
             }
         ]
     },
     {
         "name": "B DECK",
-        "description": "ALL UPPER BERTHS (NO. 2) IN ROOMS ON THIS DECK ARE PULLMAN BERTHS AND FOLDED UP.",
-        "description_2": "ROOMS B 7, 8, 9, 10, 11, 12, 14, 15, 18, 19, 20, 21, 21, 24, 25, 26, 27, 30, 31, 32, 33, 36, 37, 38, AND 39, WERE FITTED SO THAT A SOFA BERTH FOR AN EXTRA PASSENGER COULD BE PROVIDED WHEN REQUIRED",
+        "description": "Tutte le cuccette superiori (No. 2) nelle stanze di questo ponte erano cuccette Pullman e si ripiegavano.",
+        "description_2": "Le stanze B 7, 8, 9, 10, 11, 12, 14, 15, 18, 19, 20, 21, 21, 24, 25, 26, 27, 30, 31, 32, 33, 36, 37, 38, E 39, ERANO DOTATE IN MODO TALE CHE UN LETTO DIVANO PER UN PASSEGGERO EXTRA POTEVANO ESSERE FORNITI ALL'OCCORRENZA",
         "description_3": "",
         "description_4": "",
         "details": [
             {
                 "title": "AE",
-                "description": "ASH EJECTOR."
+                "description": "ESPULSORE DI CENERE."
             },
             {
                 "title": "B",
-                "description": "BUNK."
+                "description": "CUCCETTA."
             },
             {
                 "title": "BR",
-                "description": "BAG RACK."
+                "description": "PORTABORSE."
             },
             {
                 "title": "CS",
-                "description": "COAL SHUTE."
+                "description": "TRAMOGGIA PER IL CARBONE."
             },
             {
                 "title": "D",
-                "description": "CHEST OF DRAWERS."
+                "description": "CASSETTONE."
             },
             {
                 "title": "DC",
-                "description": "DIRECT CONTACT."
+                "description": "CONTATTO DIRETTO."
             },
             {
                 "title": "DT",
-                "description": "DRESSING TABLE."
+                "description": "TOILETTE."
             },
             {
                 "title": "DRES",
-                "description": "DRESSER."
+                "description": "COMÒ."
             },
             {
                 "title": "DRS (BUNKS)",
-                "description": "DRAWERS."
+                "description": "CASSETTI."
             },
             {
-                "title": "DP ON TANK TOP",
-                "description": "DRAIN POT."
+                "title": "DP SUL FONDO DEL SERBATOIO",
+                "description": "VASO DI DRENAGGIO."
             },
             {
                 "title": "FE",
-                "description": "FIREMAN'S ESCAPE."
+                "description": "USCITA DEL FUOCHISTA."
             },
             {
                 "title": "FL",
-                "description": "FOLDING LAVATORY."
+                "description": "LAVATOIO PIEGHEVOLE."
             },
             {
                 "title": "FW",
-                "description": "FRESH WATER."
+                "description": "ACQUA FRESCA."
             },
             {
                 "title": "GI",
-                "description": "GALVANIZED IRON."
+                "description": "FERRO ZINCATO."
             },
             {
                 "title": "H",
-                "description": "HEATER."
+                "description": "RISCALDATORE."
             },
             {
                 "title": "H",
-                "description": "HOIST."
+                "description": "MONTACARICHI."
             },
             {
                 "title": "HP",
-                "description": "HOT PRESS."
+                "description": "PRESSA CALDA."
             },
             {
                 "title": "LOR LK",
-                "description": "LOCKER."
+                "description": "ARMADIO."
             },
             {
                 "title": "L&A",
-                "description": "LIGHT & AIR."
+                "description": "LUCE E ARIA."
             },
             {
                 "title": "MP",
-                "description": "MOORING PIPE."
+                "description": "TUBO DI ORMEGGIO."
             },
             {
                 "title": "PT",
-                "description": "PIPE TUNNEL."
+                "description": "TUNNEL PER TUBAZIONI."
             },
             {
-                "title": "P ON TANK TOP",
-                "description": "PLATE OVER MAN HOLE."
+                "title": "P SUL FONDO DEL SERBATOIO",
+                "description": "PIASTRA SOPRA IL TOMBINO."
             },
             {
-                "title": "S IN FOREPEAKS",
-                "description": "SCUTTLE."
+                "title": "S NELLA PRUA",
+                "description": "BOTOLA."
             },
             {
-                "title": "S ON BOAT DECK",
-                "description": "SKID LIGHT."
+                "title": "S SUL PONTE DELLE BARCHE",
+                "description": "LUCE SCORREVOLE."
             },
             {
                 "title": "SB",
-                "description": "SIDE BOARD."
+                "description": "CREDENZA."
             },
             {
                 "title": "TOR TE",
-                "description": "TUNNEL ESCAPE."
+                "description": "USCITA DEL TUNNEL."
             },
             {
                 "title": "TV",
-                "description": "TUNNEL VENT."
+                "description": "VENTILAZIONE DEL TUNNEL."
             },
             {
                 "title": "V",
-                "description": "VENT."
+                "description": "VENTILAZIONE."
             },
             {
                 "title": "V",
-                "description": "UTLEY'S VENTILATING PORTHOLE."
+                "description": "OBLO' DI VENTILAZIONE DI UTLEY."
             },
             {
                 "title": "W",
-                "description": "WARDROBE."
+                "description": "GUARDAROBA."
             },
             {
                 "title": "WP",
-                "description": "WASH PORT."
+                "description": "PORTA DI LAVAGGIO."
             },
             {
                 "title": "WT",
-                "description": "WATERTIGHT."
+                "description": "STAGNO."
             },
             {
                 "title": "WTB",
-                "description": "WATERTIGHT BULKHEAD."
+                "description": "PARATIA STAGNA."
             },
             {
                 "title": "WT",
-                "description": "WRITING TABLE."
+                "description": "SCRIVANIA."
             }
         ]
     },
     {
         "name": "C DECK",
-        "description": "ALL UPPER BERTHS (NO.2) IN ROOMS ON THIS DECK WERE PULLMAN BERTHS AND FOLDED UP.",
-        "description_2": "ROOMS C 1, 2, 3, 4, 5, 6, 45, 47, 49, 50, 51, 52, 53, 54, 56, 58, 60, 97, 103, 105, 107, 109, 111, 114, 116, 118, 122 AND 124 WERE SO FITTED THAT A PULLMAN UPPER BERTH FOR AN EXTRA PASSENGER COULD BE PROVIDED WHEN REQUIRED.",
-        "description_3": "ROOMS C 40, 42, 44 AND 46 WERE SO FITTED THAT A SOFA BERTH FOR AN EXTRA PASSENGER COULD BE PROVIDED WHEN REQUIRED.",
+        "description": "Tutte le cuccette superiori (No. 2) nelle stanze di questo ponte erano cuccette Pullman e si ripiegavano.",
+        "description_2": "Le stanze C 1, 2, 3, 4, 5, 6, 45, 47, 49, 50, 51, 52, 53, 54, 56, 58, 60, 97, 103, 105, 107, 109, 111, 114, 116, 118, 122 E 124 ERANO DOTATE IN MODO TALE CHE UN LETTO SUPERIORE PULLMAN PER UN PASSEGGERO EXTRA POTEVANO ESSERE FORNITI ALL'OCCORRENZA.",
+        "description_3": "Le stanze C 40, 42, 44 E 46 ERANO DOTATE IN MODO TALE CHE UN LETTO DIVANO PER UN PASSEGGERO EXTRA POTEVANO ESSERE FORNITI ALL'OCCORRENZA.",
         "description_4": "",
         "details": [
             {
                 "title": "AE",
-                "description": "ÉJECTEUR DE CENDRES."
+                "description": "ESPULSORE DI CENERE."
             },
             {
                 "title": "B",
-                "description": "LIT SUPERPOSÉ."
+                "description": "CUCCETTA."
             },
             {
                 "title": "BR",
-                "description": "PORTE-BAGAGES."
+                "description": "PORTABORSE."
             },
             {
                 "title": "CS",
-                "description": "TRÉMIE À CHARBON."
+                "description": "TRAMOGGIA PER IL CARBONE."
             },
             {
                 "title": "D",
-                "description": "COMMODE."
+                "description": "CASSETTONE."
             },
             {
                 "title": "DC",
-                "description": "CONTACT DIRECT."
+                "description": "CONTATTO DIRETTO."
             },
             {
                 "title": "DT",
-                "description": "TABLE DE TOILETTE."
-            },
-            {
-                "title": "DRES",
                 "description": "TOILETTE."
             },
             {
-                "title": "DRS (BUNKS)",
-                "description": "TIROIRS."
+                "title": "DRES",
+                "description": "COMÒ."
             },
             {
-                "title": "DP ON TANK TOP",
-                "description": "POT DE VIDANGE."
+                "title": "DRS (BUNKS)",
+                "description": "CASSETTI."
+            },
+            {
+                "title": "DP SUL FONDO DEL SERBATOIO",
+                "description": "VASO DI DRENAGGIO."
             },
             {
                 "title": "FE",
-                "description": "ISSUE DE SECOURS DU POMPIER."
+                "description": "USCITA DEL FUOCHISTA."
             },
             {
                 "title": "FL",
-                "description": "LAVABO PLIANT."
+                "description": "LAVATOIO PIEGHEVOLE."
             },
             {
                 "title": "FW",
-                "description": "EAU FRAÎCHE."
+                "description": "ACQUA FRESCA."
             },
             {
                 "title": "GI",
-                "description": "FER GALVANISÉ."
+                "description": "FERRO ZINCATO."
             },
             {
                 "title": "H",
-                "description": "CHAUFFAGE."
+                "description": "RISCALDATORE."
             },
             {
                 "title": "H",
-                "description": "PALAN."
+                "description": "MONTACARICHI."
             },
             {
                 "title": "HP",
-                "description": "PRESSE À CHAUD."
+                "description": "PRESSA CALDA."
             },
             {
                 "title": "LOR LK",
-                "description": "PLACARD."
+                "description": "ARMADIO."
             },
             {
                 "title": "L&A",
-                "description": "LUMIÈRE & AIR."
+                "description": "LUCE E ARIA."
             },
             {
                 "title": "MP",
-                "description": "TUYAU D'AMARRAGE."
+                "description": "TUBO DI ORMEGGIO."
             },
             {
                 "title": "PT",
-                "description": "TUNNEL À TUYAUX."
+                "description": "TUNNEL PER TUBAZIONI."
             },
             {
-                "title": "P ON TANK TOP",
-                "description": "PLAQUE SUR TROU D'HOMME."
+                "title": "P SUL FONDO DEL SERBATOIO",
+                "description": "PIASTRA SOPRA IL TOMBINO."
             },
             {
-                "title": "S IN FOREPEAKS",
-                "description": "SABORD."
+                "title": "S NELLA PRUA",
+                "description": "BOTOLA."
             },
             {
-                "title": "S ON BOAT DECK",
-                "description": "LUMIÈRE D'AVANT."
+                "title": "S SUL PONTE DELLE BARCHE",
+                "description": "LUCE SCORREVOLE."
             },
             {
                 "title": "SB",
-                "description": "BUFFET."
+                "description": "CREDENZA."
             },
             {
                 "title": "TOR TE",
-                "description": "ISSUE DE SECOURS DU TUNNEL."
+                "description": "USCITA DEL TUNNEL."
             },
             {
                 "title": "TV",
-                "description": "VENTILATION DU TUNNEL."
+                "description": "VENTILAZIONE DEL TUNNEL."
             },
             {
                 "title": "V",
-                "description": "VENTILATION."
+                "description": "VENTILAZIONE."
             },
             {
                 "title": "V",
-                "description": "HUBLOT DE VENTILATION D'UTLEY."
+                "description": "OBLO' DI VENTILAZIONE DI UTLEY."
             },
             {
                 "title": "W",
-                "description": "GARDE-ROBE."
+                "description": "GUARDAROBA."
             },
             {
                 "title": "WP",
-                "description": "PORTE DE LAVAGE."
+                "description": "PORTA DI LAVAGGIO."
             },
             {
                 "title": "WT",
-                "description": "ÉTANCHE."
+                "description": "STAGNO."
             },
             {
                 "title": "WTB",
-                "description": "CLOISON ÉTANCHE."
+                "description": "PARATIA STAGNA."
             },
             {
                 "title": "WT",
-                "description": "TABLE À ÉCRIRE."
+                "description": "SCRIVANIA."
             }
         ]
     },
     {
         "name": "D DECK",
-        "description": "1ST CLASS: ALL UPPER BERTHS (NO.2) IN ROOMS ON THIS DECK WERE PULLMAN BERTHS AND FOLDED UP.",
-        "description_2": "ROOMS D 40, 42, 43, 44, 45, 46, 47, 48, 49 AND 50 WERE SO FITTED THAT A PULLMAN UPPER BERTH FOR A SECOND PASSENGER COULD BE PROVIDED WHEN REQUIRED.",
-        "description_3": "2ND CLASS: BERTHS NUMBERED 1 AND 3 WERE LOWER BERTHS (BUNKS) AND BERTHS NUMBERED 2 AND 4 WERE UPPER BERTHS. BERTHS LABELED 3 AND 4 DESIGNATED AS UPHOLSTERED WERE SOFA BERTHS IN WHICH THE BACK PANEL COULD BE LIFTED TO FORM A BERTH IN CONJUNCTION WITH THE SEAT. UNNUMBERED SOFAS WERE SUITABLE FOR A CHILD IF NECESSARY.",
-        "description_4": "3RD CLASS: BUNKS WERE TWO TIERED (2B). SINGLE WOMEN AND FAMILIES AFT.",
+        "description": "1A CLASSE: Tutte le cuccette superiori (No. 2) nelle stanze di questo ponte erano cuccette Pullman e si ripiegavano.",
+        "description_2": "Le stanze D 40, 42, 43, 44, 45, 46, 47, 48, 49 e 50 erano attrezzate in modo che una cuccetta superiore Pullman per un secondo passeggero potesse essere fornita quando necessario.",
+        "description_3": "2A CLASSE: Le cuccette numerate 1 e 3 erano cuccette inferiori (lettini) e le cuccette numerate 2 e 4 erano cuccette superiori. Le cuccette etichettate 3 e 4, designate come imbottite, erano divano-letto in cui il pannello posteriore poteva essere sollevato per formare una cuccetta in combinazione con il sedile. I divani non numerati erano adatti per un bambino se necessario.",
+        "description_4": "3A CLASSE: Le cuccette erano a due livelli (2B). Donne sole e famiglie a poppa.",
         "details": [
             {
                 "title": "AE",
-                "description": "ÉJECTEUR DE CENDRES."
+                "description": "ESPULSORE DI CENERE."
             },
             {
                 "title": "B",
-                "description": "LIT SUPERPOSÉ."
+                "description": "CUCCETTA."
             },
             {
                 "title": "BR",
-                "description": "PORTE-BAGAGES."
+                "description": "PORTABORSE."
             },
             {
                 "title": "CS",
-                "description": "TRÉMIE À CHARBON."
+                "description": "TRAMOGGIA PER IL CARBONE."
             },
             {
                 "title": "D",
-                "description": "COMMODE."
+                "description": "CASSETTONE."
             },
             {
                 "title": "DC",
-                "description": "CONTACT DIRECT."
+                "description": "CONTATTO DIRETTO."
             },
             {
                 "title": "DT",
-                "description": "TABLE DE TOILETTE."
-            },
-            {
-                "title": "DRES",
                 "description": "TOILETTE."
             },
             {
-                "title": "DRS (BUNKS)",
-                "description": "TIROIRS."
+                "title": "DRES",
+                "description": "COMÒ."
             },
             {
-                "title": "DP ON TANK TOP",
-                "description": "POT DE VIDANGE."
+                "title": "DRS (BUNKS)",
+                "description": "CASSETTI."
+            },
+            {
+                "title": "DP SUL FONDO DEL SERBATOIO",
+                "description": "VASO DI DRENAGGIO."
             },
             {
                 "title": "FE",
-                "description": "ISSUE DE SECOURS DU POMPIER."
+                "description": "USCITA DEL FUOCHISTA."
             },
             {
                 "title": "FL",
-                "description": "LAVABO PLIANT."
+                "description": "LAVATOIO PIEGHEVOLE."
             },
             {
                 "title": "FW",
-                "description": "EAU FRAÎCHE."
+                "description": "ACQUA FRESCA."
             },
             {
                 "title": "GI",
-                "description": "FER GALVANISÉ."
+                "description": "FERRO ZINCATO."
             },
             {
                 "title": "H",
-                "description": "CHAUFFAGE."
+                "description": "RISCALDATORE."
             },
             {
                 "title": "H",
-                "description": "PALAN."
+                "description": "MONTACARICHI."
             },
             {
                 "title": "HP",
-                "description": "PRESSE À CHAUD."
+                "description": "PRESSA CALDA."
             },
             {
                 "title": "LOR LK",
-                "description": "PLACARD."
+                "description": "ARMADIO."
             },
             {
                 "title": "L&A",
-                "description": "LUMIÈRE & AIR."
+                "description": "LUCE E ARIA."
             },
             {
                 "title": "MP",
-                "description": "TUYAU D'AMARRAGE."
+                "description": "TUBO DI ORMEGGIO."
             },
             {
                 "title": "PT",
-                "description": "TUNNEL À TUYAUX."
+                "description": "TUNNEL PER TUBAZIONI."
             },
             {
-                "title": "P ON TANK TOP",
-                "description": "PLAQUE SUR TROU D'HOMME."
+                "title": "P SUL FONDO DEL SERBATOIO",
+                "description": "PIASTRA SOPRA IL TOMBINO."
             },
             {
-                "title": "S IN FOREPEAKS",
-                "description": "SABORD."
+                "title": "S NELLA PRUA",
+                "description": "BOTOLA."
             },
             {
-                "title": "S ON BOAT DECK",
-                "description": "LUMIÈRE D'AVANT."
+                "title": "S SUL PONTE DELLE BARCHE",
+                "description": "LUCE SCORREVOLE."
             },
             {
                 "title": "SB",
-                "description": "BUFFET."
+                "description": "CREDENZA."
             },
             {
                 "title": "TOR TE",
-                "description": "ISSUE DE SECOURS DU TUNNEL."
+                "description": "USCITA DEL TUNNEL."
             },
             {
                 "title": "TV",
-                "description": "VENTILATION DU TUNNEL."
+                "description": "VENTILAZIONE DEL TUNNEL."
             },
             {
                 "title": "V",
-                "description": "VENTILATION."
+                "description": "VENTILAZIONE."
             },
             {
                 "title": "V",
-                "description": "HUBLOT DE VENTILATION D'UTLEY."
+                "description": "OBLO' DI VENTILAZIONE DI UTLEY."
             },
             {
                 "title": "W",
-                "description": "GARDE-ROBE."
+                "description": "GUARDAROBA."
             },
             {
                 "title": "WP",
-                "description": "PORTE DE LAVAGE."
+                "description": "PORTA DI LAVAGGIO."
             },
             {
                 "title": "WT",
-                "description": "ÉTANCHE."
+                "description": "STAGNO."
             },
             {
                 "title": "WTB",
-                "description": "CLOISON ÉTANCHE."
+                "description": "PARATIA STAGNA."
             },
             {
                 "title": "WT",
-                "description": "TABLE À ÉCRIRE."
+                "description": "SCRIVANIA."
             }
         ]
     },
     {
         "name": "E DECK",
-        "description": "1ST CLASS: ROOMS E 11, 12, 14, 15, 26, 27, 38, 39, 40, 41 AND 42 WERE SO FITTED THAT A PULLMAN UPPER BERTH FOR A SECOND PASSENGER COULD BE PROVIDED WHEN REQUIRED.",
-        "description_2": "2ND CLASS: BERTHS NUMBERED 1 AND 3 WERE LOWER BERTHS (BUNKS) AND BERTHS NUMBERED 2 AND 4 WERE UPPER BERTHS. BERTHS LABELED 3 AND 4 DESIGNATED AS UPHOLSTERED WERE SOFA BERTHS IN WHICH THE BACK PANEL COULD BE LIFTED TO FORM A BERTH IN CONJUNCTION WITH THE SEAT. UNNUMBERED SOFAS WERE SUITABLE FOR A CHILD IF NECESSARY.",
-        "description_3": "3RD CLASS: BUNKS WERE TWO TIERED (2B). SINGLE MEN BERTHED FORWARD. SINGLE WOMEN AND FAMILIES AFT.",
+        "description": "1A CLASSE: Le stanze E 11, 12, 14, 15, 26, 27, 38, 39, 40, 41 e 42 erano attrezzate in modo che una cuccetta superiore Pullman per un secondo passeggero potesse essere fornita quando necessario.",
+        "description_2": "2A CLASSE: Le cuccette numerate 1 e 3 erano cuccette inferiori (lettini) e le cuccette numerate 2 e 4 erano cuccette superiori. Le cuccette etichettate 3 e 4, designate come imbottite, erano divano-letto in cui il pannello posteriore poteva essere sollevato per formare una cuccetta in combinazione con il sedile. I divani non numerati erano adatti per un bambino se necessario.",
+        "description_3": "3A CLASSE: Le cuccette erano a due livelli (2B). Uomini soli alloggiati a prua. Donne sole e famiglie a poppa..",
         "description_4": "",
         "details": [
             {
                 "title": "AE",
-                "description": "ÉJECTEUR DE CENDRES."
+                "description": "ESPULSORE DI CENERE."
             },
             {
                 "title": "B",
-                "description": "LIT SUPERPOSÉ."
+                "description": "CUCCETTA."
             },
             {
                 "title": "BR",
-                "description": "PORTE-BAGAGES."
+                "description": "PORTABORSE."
             },
             {
                 "title": "CS",
-                "description": "TRÉMIE À CHARBON."
+                "description": "TRAMOGGIA PER IL CARBONE."
             },
             {
                 "title": "D",
-                "description": "COMMODE."
+                "description": "CASSETTONE."
             },
             {
                 "title": "DC",
-                "description": "CONTACT DIRECT."
+                "description": "CONTATTO DIRETTO."
             },
             {
                 "title": "DT",
-                "description": "TABLE DE TOILETTE."
-            },
-            {
-                "title": "DRES",
                 "description": "TOILETTE."
             },
             {
-                "title": "DRS (BUNKS)",
-                "description": "TIROIRS."
+                "title": "DRES",
+                "description": "COMÒ."
             },
             {
-                "title": "DP ON TANK TOP",
-                "description": "POT DE VIDANGE."
+                "title": "DRS (BUNKS)",
+                "description": "CASSETTI."
+            },
+            {
+                "title": "DP SUL FONDO DEL SERBATOIO",
+                "description": "VASO DI DRENAGGIO."
             },
             {
                 "title": "FE",
-                "description": "ISSUE DE SECOURS DU POMPIER."
+                "description": "USCITA DEL FUOCHISTA."
             },
             {
                 "title": "FL",
-                "description": "LAVABO PLIANT."
+                "description": "LAVATOIO PIEGHEVOLE."
             },
             {
                 "title": "FW",
-                "description": "EAU FRAÎCHE."
+                "description": "ACQUA FRESCA."
             },
             {
                 "title": "GI",
-                "description": "FER GALVANISÉ."
+                "description": "FERRO ZINCATO."
             },
             {
                 "title": "H",
-                "description": "CHAUFFAGE."
+                "description": "RISCALDATORE."
             },
             {
                 "title": "H",
-                "description": "PALAN."
+                "description": "MONTACARICHI."
             },
             {
                 "title": "HP",
-                "description": "PRESSE À CHAUD."
+                "description": "PRESSA CALDA."
             },
             {
                 "title": "LOR LK",
-                "description": "PLACARD."
+                "description": "ARMADIO."
             },
             {
                 "title": "L&A",
-                "description": "LUMIÈRE & AIR."
+                "description": "LUCE E ARIA."
             },
             {
                 "title": "MP",
-                "description": "TUYAU D'AMARRAGE."
+                "description": "TUBO DI ORMEGGIO."
             },
             {
                 "title": "PT",
-                "description": "TUNNEL À TUYAUX."
+                "description": "TUNNEL PER TUBAZIONI."
             },
             {
-                "title": "P ON TANK TOP",
-                "description": "PLAQUE SUR TROU D'HOMME."
+                "title": "P SUL FONDO DEL SERBATOIO",
+                "description": "PIASTRA SOPRA IL TOMBINO."
             },
             {
-                "title": "S IN FOREPEAKS",
-                "description": "SABORD."
+                "title": "S NELLA PRUA",
+                "description": "BOTOLA."
             },
             {
-                "title": "S ON BOAT DECK",
-                "description": "LUMIÈRE D'AVANT."
+                "title": "S SUL PONTE DELLE BARCHE",
+                "description": "LUCE SCORREVOLE."
             },
             {
                 "title": "SB",
-                "description": "BUFFET."
+                "description": "CREDENZA."
             },
             {
                 "title": "TOR TE",
-                "description": "ISSUE DE SECOURS DU TUNNEL."
+                "description": "USCITA DEL TUNNEL."
             },
             {
                 "title": "TV",
-                "description": "VENTILATION DU TUNNEL."
+                "description": "VENTILAZIONE DEL TUNNEL."
             },
             {
                 "title": "V",
-                "description": "VENTILATION."
+                "description": "VENTILAZIONE."
             },
             {
                 "title": "V",
-                "description": "HUBLOT DE VENTILATION D'UTLEY."
+                "description": "OBLO' DI VENTILAZIONE DI UTLEY."
             },
             {
                 "title": "W",
-                "description": "GARDE-ROBE."
+                "description": "GUARDAROBA."
             },
             {
                 "title": "WP",
-                "description": "PORTE DE LAVAGE."
+                "description": "PORTA DI LAVAGGIO."
             },
             {
                 "title": "WT",
-                "description": "ÉTANCHE."
+                "description": "STAGNO."
             },
             {
                 "title": "WTB",
-                "description": "CLOISON ÉTANCHE."
+                "description": "PARATIA STAGNA."
             },
             {
                 "title": "WT",
-                "description": "TABLE À ÉCRIRE."
+                "description": "SCRIVANIA."
             }
         ]
     },
     {
         "name": "F DECK",
-        "description": "2ND CLASS: BERTHS NUMBERED 1 AND 3 WERE LOWER BERTHS (BUNKS) AND BERTHS NUMBERED 2 AND 4 WERE UPPER BERTHS. BERTHS LABELED 3 AND 4 DESIGNATED AS UPHOLSTERED WERE SOFA BERTHS IN WHICH THE BACK PANEL COULD BE LIFTED TO FORM A BERTH IN CONJUNCTION WITH THE SEAT. UNNUMBERED SOFAS WERE SUITABLE FOR A CHILD IF NECESSARY.",
-        "description_2": "3RD CLASS: BUNKS WERE TWO TIERED (2B). SINGLE MEN BERTHED FORWARD. SINGLE WOMEN AND FAMILIES AFT.",
+        "description": "2A CLASSE: Le cuccette numerate 1 e 3 erano cuccette inferiori (lettini) e le cuccette numerate 2 e 4 erano cuccette superiori. Le cuccette etichettate 3 e 4, designate come imbottite, erano divano-letto in cui il pannello posteriore poteva essere sollevato per formare una cuccetta in combinazione con il sedile. I divani non numerati erano adatti per un bambino se necessario.",
+        "description_2": "3A CLASSE: Le cuccette erano a due livelli (2B). Uomini soli alloggiati a prua. Donne sole e famiglie a poppa.",
         "description_3": "",
         "description_4": "",
         "details": [
             {
                 "title": "AE",
-                "description": "ÉJECTEUR DE CENDRES."
+                "description": "ESPULSORE DI CENERE."
             },
             {
                 "title": "B",
-                "description": "LIT SUPERPOSÉ."
+                "description": "CUCCETTA."
             },
             {
                 "title": "BR",
-                "description": "PORTE-BAGAGES."
+                "description": "PORTABORSE."
             },
             {
                 "title": "CS",
-                "description": "TRÉMIE À CHARBON."
+                "description": "TRAMOGGIA PER IL CARBONE."
             },
             {
                 "title": "D",
-                "description": "COMMODE."
+                "description": "CASSETTONE."
             },
             {
                 "title": "DC",
-                "description": "CONTACT DIRECT."
+                "description": "CONTATTO DIRETTO."
             },
             {
                 "title": "DT",
-                "description": "TABLE DE TOILETTE."
-            },
-            {
-                "title": "DRES",
                 "description": "TOILETTE."
             },
             {
-                "title": "DRS (BUNKS)",
-                "description": "TIROIRS."
+                "title": "DRES",
+                "description": "COMÒ."
             },
             {
-                "title": "DP ON TANK TOP",
-                "description": "POT DE VIDANGE."
+                "title": "DRS (BUNKS)",
+                "description": "CASSETTI."
+            },
+            {
+                "title": "DP SUL FONDO DEL SERBATOIO",
+                "description": "VASO DI DRENAGGIO."
             },
             {
                 "title": "FE",
-                "description": "ISSUE DE SECOURS DU POMPIER."
+                "description": "USCITA DEL FUOCHISTA."
             },
             {
                 "title": "FL",
-                "description": "LAVABO PLIANT."
+                "description": "LAVATOIO PIEGHEVOLE."
             },
             {
                 "title": "FW",
-                "description": "EAU FRAÎCHE."
+                "description": "ACQUA FRESCA."
             },
             {
                 "title": "GI",
-                "description": "FER GALVANISÉ."
+                "description": "FERRO ZINCATO."
             },
             {
                 "title": "H",
-                "description": "CHAUFFAGE."
+                "description": "RISCALDATORE."
             },
             {
                 "title": "H",
-                "description": "PALAN."
+                "description": "MONTACARICHI."
             },
             {
                 "title": "HP",
-                "description": "PRESSE À CHAUD."
+                "description": "PRESSA CALDA."
             },
             {
                 "title": "LOR LK",
-                "description": "PLACARD."
+                "description": "ARMADIO."
             },
             {
                 "title": "L&A",
-                "description": "LUMIÈRE & AIR."
+                "description": "LUCE E ARIA."
             },
             {
                 "title": "MP",
-                "description": "TUYAU D'AMARRAGE."
+                "description": "TUBO DI ORMEGGIO."
             },
             {
                 "title": "PT",
-                "description": "TUNNEL À TUYAUX."
+                "description": "TUNNEL PER TUBAZIONI."
             },
             {
-                "title": "P ON TANK TOP",
-                "description": "PLAQUE SUR TROU D'HOMME."
+                "title": "P SUL FONDO DEL SERBATOIO",
+                "description": "PIASTRA SOPRA IL TOMBINO."
             },
             {
-                "title": "S IN FOREPEAKS",
-                "description": "SABORD."
+                "title": "S NELLA PRUA",
+                "description": "BOTOLA."
             },
             {
-                "title": "S ON BOAT DECK",
-                "description": "LUMIÈRE D'AVANT."
+                "title": "S SUL PONTE DELLE BARCHE",
+                "description": "LUCE SCORREVOLE."
             },
             {
                 "title": "SB",
-                "description": "BUFFET."
+                "description": "CREDENZA."
             },
             {
                 "title": "TOR TE",
-                "description": "ISSUE DE SECOURS DU TUNNEL."
+                "description": "USCITA DEL TUNNEL."
             },
             {
                 "title": "TV",
-                "description": "VENTILATION DU TUNNEL."
+                "description": "VENTILAZIONE DEL TUNNEL."
             },
             {
                 "title": "V",
-                "description": "VENTILATION."
+                "description": "VENTILAZIONE."
             },
             {
                 "title": "V",
-                "description": "HUBLOT DE VENTILATION D'UTLEY."
+                "description": "OBLO' DI VENTILAZIONE DI UTLEY."
             },
             {
                 "title": "W",
-                "description": "GARDE-ROBE."
+                "description": "GUARDAROBA."
             },
             {
                 "title": "WP",
-                "description": "PORTE DE LAVAGE."
+                "description": "PORTA DI LAVAGGIO."
             },
             {
                 "title": "WT",
-                "description": "ÉTANCHE."
+                "description": "STAGNO."
             },
             {
                 "title": "WTB",
-                "description": "CLOISON ÉTANCHE."
+                "description": "PARATIA STAGNA."
             },
             {
                 "title": "WT",
-                "description": "TABLE À ÉCRIRE."
+                "description": "SCRIVANIA."
             }
         ]
     },
     {
         "name": "G DECK",
-        "description": "3RD CLASS: BUNKS WERE TWO TIERED (2B). SINGLE MEN BERTHED FORWARD. SINGLE WOMEN AND FAMILIES AFT.",
+        "description": "3A CLASSE: Le cuccette erano a due livelli (2B). Uomini soli alloggiati a prua. Donne sole e famiglie a poppa.",
         "description_2": "",
         "description_3": "",
         "description_4": "",
         "details": [
             {
                 "title": "AE",
-                "description": "ÉJECTEUR DE CENDRES."
+                "description": "ESPULSORE DI CENERE."
             },
             {
                 "title": "B",
-                "description": "LIT SUPERPOSÉ."
+                "description": "CUCCETTA."
             },
             {
                 "title": "BR",
-                "description": "PORTE-BAGAGES."
+                "description": "PORTABORSE."
             },
             {
                 "title": "CS",
-                "description": "TRÉMIE À CHARBON."
+                "description": "TRAMOGGIA PER IL CARBONE."
             },
             {
                 "title": "D",
-                "description": "COMMODE."
+                "description": "CASSETTONE."
             },
             {
                 "title": "DC",
-                "description": "CONTACT DIRECT."
+                "description": "CONTATTO DIRETTO."
             },
             {
                 "title": "DT",
-                "description": "TABLE DE TOILETTE."
-            },
-            {
-                "title": "DRES",
                 "description": "TOILETTE."
             },
             {
-                "title": "DRS (BUNKS)",
-                "description": "TIROIRS."
+                "title": "DRES",
+                "description": "COMÒ."
             },
             {
-                "title": "DP ON TANK TOP",
-                "description": "POT DE VIDANGE."
+                "title": "DRS (BUNKS)",
+                "description": "CASSETTI."
+            },
+            {
+                "title": "DP SUL FONDO DEL SERBATOIO",
+                "description": "VASO DI DRENAGGIO."
             },
             {
                 "title": "FE",
-                "description": "ISSUE DE SECOURS DU POMPIER."
+                "description": "USCITA DEL FUOCHISTA."
             },
             {
                 "title": "FL",
-                "description": "LAVABO PLIANT."
+                "description": "LAVATOIO PIEGHEVOLE."
             },
             {
                 "title": "FW",
-                "description": "EAU FRAÎCHE."
+                "description": "ACQUA FRESCA."
             },
             {
                 "title": "GI",
-                "description": "FER GALVANISÉ."
+                "description": "FERRO ZINCATO."
             },
             {
                 "title": "H",
-                "description": "CHAUFFAGE."
+                "description": "RISCALDATORE."
             },
             {
                 "title": "H",
-                "description": "PALAN."
+                "description": "MONTACARICHI."
             },
             {
                 "title": "HP",
-                "description": "PRESSE À CHAUD."
+                "description": "PRESSA CALDA."
             },
             {
                 "title": "LOR LK",
-                "description": "PLACARD."
+                "description": "ARMADIO."
             },
             {
                 "title": "L&A",
-                "description": "LUMIÈRE & AIR."
+                "description": "LUCE E ARIA."
             },
             {
                 "title": "MP",
-                "description": "TUYAU D'AMARRAGE."
+                "description": "TUBO DI ORMEGGIO."
             },
             {
                 "title": "PT",
-                "description": "TUNNEL À TUYAUX."
+                "description": "TUNNEL PER TUBAZIONI."
             },
             {
-                "title": "P ON TANK TOP",
-                "description": "PLAQUE SUR TROU D'HOMME."
+                "title": "P SUL FONDO DEL SERBATOIO",
+                "description": "PIASTRA SOPRA IL TOMBINO."
             },
             {
-                "title": "S IN FOREPEAKS",
-                "description": "SABORD."
+                "title": "S NELLA PRUA",
+                "description": "BOTOLA."
             },
             {
-                "title": "S ON BOAT DECK",
-                "description": "LUMIÈRE D'AVANT."
+                "title": "S SUL PONTE DELLE BARCHE",
+                "description": "LUCE SCORREVOLE."
             },
             {
                 "title": "SB",
-                "description": "BUFFET."
+                "description": "CREDENZA."
             },
             {
                 "title": "TOR TE",
-                "description": "ISSUE DE SECOURS DU TUNNEL."
+                "description": "USCITA DEL TUNNEL."
             },
             {
                 "title": "TV",
-                "description": "VENTILATION DU TUNNEL."
+                "description": "VENTILAZIONE DEL TUNNEL."
             },
             {
                 "title": "V",
-                "description": "VENTILATION."
+                "description": "VENTILAZIONE."
             },
             {
                 "title": "V",
-                "description": "HUBLOT DE VENTILATION D'UTLEY."
+                "description": "OBLO' DI VENTILAZIONE DI UTLEY."
             },
             {
                 "title": "W",
-                "description": "GARDE-ROBE."
+                "description": "GUARDAROBA."
             },
             {
                 "title": "WP",
-                "description": "PORTE DE LAVAGE."
+                "description": "PORTA DI LAVAGGIO."
             },
             {
                 "title": "WT",
-                "description": "ÉTANCHE."
+                "description": "STAGNO."
             },
             {
                 "title": "WTB",
-                "description": "CLOISON ÉTANCHE."
+                "description": "PARATIA STAGNA."
             },
             {
                 "title": "WT",
-                "description": "TABLE À ÉCRIRE."
+                "description": "SCRIVANIA."
             }
         ]
     },
     {
         "name": "ORLOP DECK",
-        "description": "  ",
-        "description_2": "  ",
-        "description_3": "  ",
+        "description": " ",
+        "description_2": " ",
+        "description_3": " ",
         "description_4": "",
         "details": [
             {
                 "title": "AE",
-                "description": "ÉJECTEUR DE CENDRES."
+                "description": "ESPULSORE DI CENERE."
             },
             {
                 "title": "B",
-                "description": "LIT SUPERPOSÉ."
+                "description": "CUCCETTA."
             },
             {
                 "title": "BR",
-                "description": "PORTE-BAGAGES."
+                "description": "PORTABORSE."
             },
             {
                 "title": "CS",
-                "description": "TRÉMIE À CHARBON."
+                "description": "TRAMOGGIA PER IL CARBONE."
             },
             {
                 "title": "D",
-                "description": "COMMODE."
+                "description": "CASSETTONE."
             },
             {
                 "title": "DC",
-                "description": "CONTACT DIRECT."
+                "description": "CONTATTO DIRETTO."
             },
             {
                 "title": "DT",
-                "description": "TABLE DE TOILETTE."
-            },
-            {
-                "title": "DRES",
                 "description": "TOILETTE."
             },
             {
-                "title": "DRS (BUNKS)",
-                "description": "TIROIRS."
+                "title": "DRES",
+                "description": "COMÒ."
             },
             {
-                "title": "DP ON TANK TOP",
-                "description": "POT DE VIDANGE."
+                "title": "DRS (BUNKS)",
+                "description": "CASSETTI."
+            },
+            {
+                "title": "DP SUL FONDO DEL SERBATOIO",
+                "description": "VASO DI DRENAGGIO."
             },
             {
                 "title": "FE",
-                "description": "ISSUE DE SECOURS DU POMPIER."
+                "description": "USCITA DEL FUOCHISTA."
             },
             {
                 "title": "FL",
-                "description": "LAVABO PLIANT."
+                "description": "LAVATOIO PIEGHEVOLE."
             },
             {
                 "title": "FW",
-                "description": "EAU FRAÎCHE."
+                "description": "ACQUA FRESCA."
             },
             {
                 "title": "GI",
-                "description": "FER GALVANISÉ."
+                "description": "FERRO ZINCATO."
             },
             {
                 "title": "H",
-                "description": "CHAUFFAGE."
+                "description": "RISCALDATORE."
             },
             {
                 "title": "H",
-                "description": "PALAN."
+                "description": "MONTACARICHI."
             },
             {
                 "title": "HP",
-                "description": "PRESSE À CHAUD."
+                "description": "PRESSA CALDA."
             },
             {
                 "title": "LOR LK",
-                "description": "PLACARD."
+                "description": "ARMADIO."
             },
             {
                 "title": "L&A",
-                "description": "LUMIÈRE & AIR."
+                "description": "LUCE E ARIA."
             },
             {
                 "title": "MP",
-                "description": "TUYAU D'AMARRAGE."
+                "description": "TUBO DI ORMEGGIO."
             },
             {
                 "title": "PT",
-                "description": "TUNNEL À TUYAUX."
+                "description": "TUNNEL PER TUBAZIONI."
             },
             {
-                "title": "P ON TANK TOP",
-                "description": "PLAQUE SUR TROU D'HOMME."
+                "title": "P SUL FONDO DEL SERBATOIO",
+                "description": "PIASTRA SOPRA IL TOMBINO."
             },
             {
-                "title": "S IN FOREPEAKS",
-                "description": "SABORD."
+                "title": "S NELLA PRUA",
+                "description": "BOTOLA."
             },
             {
-                "title": "S ON BOAT DECK",
-                "description": "LUMIÈRE D'AVANT."
+                "title": "S SUL PONTE DELLE BARCHE",
+                "description": "LUCE SCORREVOLE."
             },
             {
                 "title": "SB",
-                "description": "BUFFET."
+                "description": "CREDENZA."
             },
             {
                 "title": "TOR TE",
-                "description": "ISSUE DE SECOURS DU TUNNEL."
+                "description": "USCITA DEL TUNNEL."
             },
             {
                 "title": "TV",
-                "description": "VENTILATION DU TUNNEL."
+                "description": "VENTILAZIONE DEL TUNNEL."
             },
             {
                 "title": "V",
-                "description": "VENTILATION."
+                "description": "VENTILAZIONE."
             },
             {
                 "title": "V",
-                "description": "HUBLOT DE VENTILATION D'UTLEY."
+                "description": "OBLO' DI VENTILAZIONE DI UTLEY."
             },
             {
                 "title": "W",
-                "description": "GARDE-ROBE."
+                "description": "GUARDAROBA."
             },
             {
                 "title": "WP",
-                "description": "PORTE DE LAVAGE."
+                "description": "PORTA DI LAVAGGIO."
             },
             {
                 "title": "WT",
-                "description": "ÉTANCHE."
+                "description": "STAGNO."
             },
             {
                 "title": "WTB",
-                "description": "CLOISON ÉTANCHE."
+                "description": "PARATIA STAGNA."
             },
             {
                 "title": "WT",
-                "description": "TABLE À ÉCRIRE."
+                "description": "SCRIVANIA."
             }
         ]
     },
     {
         "name": "TANK TOP",
-        "description": "  ",
-        "description_2": "  ",
-        "description_3": "  ",
+        "description": "N/D",
+        "description_2": "N/D",
+        "description_3": "N/D",
         "description_4": "",
         "details": [
             {
                 "title": "AE",
-                "description": "ÉJECTEUR DE CENDRES."
+                "description": "ESPULSORE DI CENERE."
             },
             {
                 "title": "B",
-                "description": "LIT SUPERPOSÉ."
+                "description": "LETTO A CASTELLO."
             },
             {
                 "title": "BR",
-                "description": "PORTE-BAGAGES."
+                "description": "PORTABAGAGLI."
             },
             {
                 "title": "CS",
-                "description": "TRÉMIE À CHARBON."
+                "description": "TRAMOGGIA DEL CARBONE."
             },
             {
                 "title": "D",
-                "description": "COMMODE."
+                "description": "CASSETTONE."
             },
             {
                 "title": "DC",
-                "description": "CONTACT DIRECT."
+                "description": "CONTATTO DIRETTO."
             },
             {
                 "title": "DT",
-                "description": "TABLE DE TOILETTE."
+                "description": "TAVOLO DA TOELETTATURA."
             },
             {
                 "title": "DRES",
@@ -1490,67 +1490,67 @@
             },
             {
                 "title": "DRS (BUNKS)",
-                "description": "TIROIRS."
+                "description": "CASSETTI."
             },
             {
                 "title": "DP ON TANK TOP",
-                "description": "POT DE VIDANGE."
+                "description": "VASO DI SCARICO."
             },
             {
                 "title": "FE",
-                "description": "ISSUE DE SECOURS DU POMPIER."
+                "description": "USCITA DI SICUREZZA DEL POMPIERE."
             },
             {
                 "title": "FL",
-                "description": "LAVABO PLIANT."
+                "description": "LAVABO PIEGHEVOLE."
             },
             {
                 "title": "FW",
-                "description": "EAU FRAÎCHE."
+                "description": "ACQUA FRESCA."
             },
             {
                 "title": "GI",
-                "description": "FER GALVANISÉ."
+                "description": "FERRO ZINCATO."
             },
             {
                 "title": "H",
-                "description": "CHAUFFAGE."
+                "description": "RISCALDAMENTO."
             },
             {
                 "title": "H",
-                "description": "PALAN."
+                "description": "PARANCO."
             },
             {
                 "title": "HP",
-                "description": "PRESSE À CHAUD."
+                "description": "PRESSA A CALDO."
             },
             {
                 "title": "LOR LK",
-                "description": "PLACARD."
+                "description": "GUARDAROBA."
             },
             {
                 "title": "L&A",
-                "description": "LUMIÈRE & AIR."
+                "description": "LUCE E ARIA."
             },
             {
                 "title": "MP",
-                "description": "TUYAU D'AMARRAGE."
+                "description": "TUBO DI ORMEGGIO."
             },
             {
                 "title": "PT",
-                "description": "TUNNEL À TUYAUX."
+                "description": "TUNNEL DI TUBAZIONE."
             },
             {
                 "title": "P ON TANK TOP",
-                "description": "PLAQUE SUR TROU D'HOMME."
+                "description": "PIASTRA SU FORO DI ISPEZIONE."
             },
             {
                 "title": "S IN FOREPEAKS",
-                "description": "SABORD."
+                "description": "OBLO."
             },
             {
                 "title": "S ON BOAT DECK",
-                "description": "LUMIÈRE D'AVANT."
+                "description": "LUCE ANTERIORE."
             },
             {
                 "title": "SB",
@@ -1558,184 +1558,39 @@
             },
             {
                 "title": "TOR TE",
-                "description": "ISSUE DE SECOURS DU TUNNEL."
+                "description": "USCITA DI SICUREZZA DEL TUNNEL."
             },
             {
                 "title": "TV",
-                "description": "VENTILATION DU TUNNEL."
+                "description": "VENTILAZIONE DEL TUNNEL."
             },
             {
                 "title": "V",
-                "description": "VENTILATION."
+                "description": "VENTILAZIONE."
             },
             {
                 "title": "V",
-                "description": "HUBLOT DE VENTILATION D'UTLEY."
+                "description": "OBLO DI VENTILAZIONE DI UTLEY."
             },
             {
                 "title": "W",
-                "description": "GARDE-ROBE."
+                "description": "GUARDAROBA."
             },
             {
                 "title": "WP",
-                "description": "PORTE DE LAVAGE."
+                "description": "PORTA DI LAVAGGIO."
             },
             {
                 "title": "WT",
-                "description": "ÉTANCHE."
+                "description": "IMPERMEABILE."
             },
             {
                 "title": "WTB",
-                "description": "CLOISON ÉTANCHE."
+                "description": "PARATIA IMPERMEABILE."
             },
             {
                 "title": "WT",
-                "description": "TABLE À ÉCRIRE."
-            }
-        ]
-    },
-    {
-        "name": "DOUBLON LEGEND",
-        "description": "  ",
-        "description_2": "  ",
-        "description_3": "  ",
-        "description_4": "",
-        "details": [
-            {
-                "title": "AE",
-                "description": "ÉJECTEUR DE CENDRES."
-            },
-            {
-                "title": "B",
-                "description": "LIT SUPERPOSÉ."
-            },
-            {
-                "title": "BR",
-                "description": "PORTE-BAGAGES."
-            },
-            {
-                "title": "CS",
-                "description": "TRÉMIE À CHARBON."
-            },
-            {
-                "title": "D",
-                "description": "COMMODE."
-            },
-            {
-                "title": "DC",
-                "description": "CONTACT DIRECT."
-            },
-            {
-                "title": "DT",
-                "description": "TABLE DE TOILETTE."
-            },
-            {
-                "title": "DRES",
-                "description": "TOILETTE."
-            },
-            {
-                "title": "DRS (BUNKS)",
-                "description": "TIROIRS."
-            },
-            {
-                "title": "DP ON TANK TOP",
-                "description": "POT DE VIDANGE."
-            },
-            {
-                "title": "FE",
-                "description": "ISSUE DE SECOURS DU POMPIER."
-            },
-            {
-                "title": "FL",
-                "description": "LAVABO PLIANT."
-            },
-            {
-                "title": "FW",
-                "description": "EAU FRAÎCHE."
-            },
-            {
-                "title": "GI",
-                "description": "FER GALVANISÉ."
-            },
-            {
-                "title": "H",
-                "description": "CHAUFFAGE."
-            },
-            {
-                "title": "H",
-                "description": "PALAN."
-            },
-            {
-                "title": "HP",
-                "description": "PRESSE À CHAUD."
-            },
-            {
-                "title": "LOR LK",
-                "description": "PLACARD."
-            },
-            {
-                "title": "L&A",
-                "description": "LUMIÈRE & AIR."
-            },
-            {
-                "title": "MP",
-                "description": "TUYAU D'AMARRAGE."
-            },
-            {
-                "title": "PT",
-                "description": "TUNNEL À TUYAUX."
-            },
-            {
-                "title": "P ON TANK TOP",
-                "description": "PLAQUE SUR TROU D'HOMME."
-            },
-            {
-                "title": "S IN FOREPEAKS",
-                "description": "SABORD."
-            },
-            {
-                "title": "S ON BOAT DECK",
-                "description": "LUMIÈRE D'AVANT."
-            },
-            {
-                "title": "SB",
-                "description": "BUFFET."
-            },
-            {
-                "title": "TOR TE",
-                "description": "ISSUE DE SECOURS DU TUNNEL."
-            },
-            {
-                "title": "TV",
-                "description": "VENTILATION DU TUNNEL."
-            },
-            {
-                "title": "V",
-                "description": "VENTILATION."
-            },
-            {
-                "title": "V",
-                "description": "HUBLOT DE VENTILATION D'UTLEY."
-            },
-            {
-                "title": "W",
-                "description": "GARDE-ROBE."
-            },
-            {
-                "title": "WP",
-                "description": "PORTE DE LAVAGE."
-            },
-            {
-                "title": "WT",
-                "description": "ÉTANCHE."
-            },
-            {
-                "title": "WTB",
-                "description": "CLOISON ÉTANCHE."
-            },
-            {
-                "title": "WT",
-                "description": "TABLE À ÉCRIRE."
+                "description": "SCRIVANIA."
             }
         ]
     }
